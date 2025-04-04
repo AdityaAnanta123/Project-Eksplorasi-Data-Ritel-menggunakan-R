@@ -1,0 +1,1843 @@
+No Transaksi	Jenis Transaksi	Tanggal	Nama Pelanggan	Kode Produk	Nama Produk	Jumlah	Harga
+1	Stok Masuk	01-04-2020	-	Item-01	Batere AA	44	-
+1	Stok Masuk	01-04-2020	-	Item-02	Bawang Putih 200 gram	26	-
+1	Stok Masuk	01-04-2020	-	Item-03	Gula Pasir Putih 1 kg	50	-
+1	Stok Masuk	01-04-2020	-	Item-04	Kopi Instant	27	-
+1	Stok Masuk	01-04-2020	-	Item-05	Mi Goreng Instant	100	-
+1	Stok Masuk	01-04-2020	-	Item-06	Sabun Mandi Cair 100 ml	56	-
+1	Stok Masuk	01-04-2020	-	Item-07	Sabut Cuci Piring	6	-
+1	Stok Masuk	01-04-2020	-	Item-08	Vitamin C	25	-
+1	Stok Masuk	01-04-2020	-	Item-09	Roti Tawar	15	-
+1	Stok Masuk	01-04-2020	-	Item-10	Biskuit Waver Kaleng	67	-
+1	Stok Masuk	01-04-2020	-	Item-11	Sabun Cuci Piring	33	-
+1	Stok Masuk	01-04-2020	-	Item-12	Beras Pulen 5 kg	30	-
+1	Stok Masuk	01-04-2020	-	Item-13	Pisau Cukur	9	-
+1	Stok Masuk	01-04-2020	-	Item-14	Teh Celup Melati	38	-
+1	Stok Masuk	01-04-2020	-	Item-15	Ketan Hitam 500 gram	23	-
+1	Stok Masuk	01-04-2020	-	Item-16	Balsem Putih 20 gram	10	-
+1	Stok Masuk	01-04-2020	-	Item-17	Obat Batuk	39	-
+1	Stok Masuk	01-04-2020	-	Item-18	Telur Ayam Negeri	79	-
+1	Stok Masuk	01-04-2020	-	Item-19	Obat Diare	34	-
+1	Stok Masuk	01-04-2020	-	Item-20	Gunting Kuku	13	-
+2	Stok Masuk	03-04-2020	-	Item-02	Bawang Putih 200 gram	51	-
+2	Stok Masuk	03-04-2020	-	Item-09	Roti Tawar	15	-
+3	Stok Masuk	04-04-2020	-	Item-03	Gula Pasir Putih 1 kg	44	-
+3	Stok Masuk	04-04-2020	-	Item-18	Telur Ayam Negeri	72	-
+4	Stok Masuk	05-04-2020	-	Item-08	Vitamin C	51	-
+4	Stok Masuk	05-04-2020	-	Item-09	Roti Tawar	14	-
+5	Stok Masuk	06-04-2020	-	Item-02	Bawang Putih 200 gram	33	-
+5	Stok Masuk	06-04-2020	-	Item-05	Mi Goreng Instant	89	-
+5	Stok Masuk	06-04-2020	-	Item-14	Teh Celup Melati	52	-
+6	Stok Masuk	07-04-2020	-	Item-03	Gula Pasir Putih 1 kg	38	-
+6	Stok Masuk	07-04-2020	-	Item-04	Kopi Instant	65	-
+6	Stok Masuk	07-04-2020	-	Item-09	Roti Tawar	12	-
+6	Stok Masuk	07-04-2020	-	Item-15	Ketan Hitam 500 gram	29	-
+6	Stok Masuk	07-04-2020	-	Item-18	Telur Ayam Negeri	85	-
+7	Stok Masuk	08-04-2020	-	Item-02	Bawang Putih 200 gram	49	-
+7	Stok Masuk	08-04-2020	-	Item-05	Mi Goreng Instant	81	-
+7	Stok Masuk	08-04-2020	-	Item-06	Sabun Mandi Cair 100 ml	69	-
+7	Stok Masuk	08-04-2020	-	Item-10	Biskuit Waver Kaleng	68	-
+7	Stok Masuk	08-04-2020	-	Item-12	Beras Pulen 5 kg	26	-
+7	Stok Masuk	08-04-2020	-	Item-19	Obat Diare	57	-
+8	Stok Masuk	09-04-2020	-	Item-09	Roti Tawar	13	-
+8	Stok Masuk	09-04-2020	-	Item-18	Telur Ayam Negeri	93	-
+8	Stok Masuk	09-04-2020	-	Item-20	Gunting Kuku	16	-
+9	Stok Masuk	10-04-2020	-	Item-02	Bawang Putih 200 gram	33	-
+9	Stok Masuk	10-04-2020	-	Item-03	Gula Pasir Putih 1 kg	42	-
+9	Stok Masuk	10-04-2020	-	Item-05	Mi Goreng Instant	30	-
+9	Stok Masuk	10-04-2020	-	Item-11	Sabun Cuci Piring	61	-
+10	Penjualan	10-04-2020	Fajri	Item-11	Sabun Cuci Piring	3	14000
+11	Penjualan	10-04-2020	Fitri	Item-11	Sabun Cuci Piring	3	14000
+12	Penjualan	10-04-2020	Nita	Item-11	Sabun Cuci Piring	2	14000
+13	Penjualan	10-04-2020	Rian	Item-02	Bawang Putih 200 gram	3	15000
+13	Penjualan	10-04-2020	Rian	Item-03	Gula Pasir Putih 1 kg	2	12500
+13	Penjualan	10-04-2020	Rian	Item-05	Mi Goreng Instant	2	2600
+13	Penjualan	10-04-2020	Rian	Item-11	Sabun Cuci Piring	3	14000
+14	Penjualan	10-04-2020	Zahra	Item-03	Gula Pasir Putih 1 kg	3	12500
+14	Penjualan	10-04-2020	Zahra	Item-05	Mi Goreng Instant	2	2600
+14	Penjualan	10-04-2020	Zahra	Item-11	Sabun Cuci Piring	4	14000
+15	Stok Masuk	11-04-2020	-	Item-07	Sabut Cuci Piring	6	-
+15	Stok Masuk	11-04-2020	-	Item-16	Balsem Putih 20 gram	8	-
+15	Stok Masuk	11-04-2020	-	Item-17	Obat Batuk	27	-
+15	Stok Masuk	11-04-2020	-	Item-18	Telur Ayam Negeri	86	-
+16	Penjualan	11-04-2020	Agung	Item-05	Mi Goreng Instant	2	2600
+16	Penjualan	11-04-2020	Agung	Item-07	Sabut Cuci Piring	1	7500
+16	Penjualan	11-04-2020	Agung	Item-11	Sabun Cuci Piring	2	14000
+17	Penjualan	11-04-2020	Bagus	Item-05	Mi Goreng Instant	1	2600
+17	Penjualan	11-04-2020	Bagus	Item-11	Sabun Cuci Piring	3	14000
+17	Penjualan	11-04-2020	Bagus	Item-16	Balsem Putih 20 gram	1	22300
+18	Penjualan	11-04-2020	Bambang	Item-05	Mi Goreng Instant	3	2600
+18	Penjualan	11-04-2020	Bambang	Item-11	Sabun Cuci Piring	4	14000
+18	Penjualan	11-04-2020	Bambang	Item-16	Balsem Putih 20 gram	1	22300
+19	Penjualan	11-04-2020	Indah	Item-03	Gula Pasir Putih 1 kg	2	12500
+19	Penjualan	11-04-2020	Indah	Item-05	Mi Goreng Instant	1	2600
+19	Penjualan	11-04-2020	Indah	Item-07	Sabut Cuci Piring	2	7500
+19	Penjualan	11-04-2020	Indah	Item-11	Sabun Cuci Piring	3	14000
+20	Penjualan	11-04-2020	Murni	Item-02	Bawang Putih 200 gram	1	15000
+20	Penjualan	11-04-2020	Murni	Item-03	Gula Pasir Putih 1 kg	2	12500
+20	Penjualan	11-04-2020	Murni	Item-05	Mi Goreng Instant	1	2600
+20	Penjualan	11-04-2020	Murni	Item-11	Sabun Cuci Piring	2	14000
+20	Penjualan	11-04-2020	Murni	Item-17	Obat Batuk	3	5000
+21	Penjualan	11-04-2020	Rahma	Item-02	Bawang Putih 200 gram	2	15000
+21	Penjualan	11-04-2020	Rahma	Item-03	Gula Pasir Putih 1 kg	1	12500
+21	Penjualan	11-04-2020	Rahma	Item-05	Mi Goreng Instant	4	2600
+21	Penjualan	11-04-2020	Rahma	Item-11	Sabun Cuci Piring	3	14000
+21	Penjualan	11-04-2020	Rahma	Item-16	Balsem Putih 20 gram	4	22300
+22	Penjualan	11-04-2020	Sarah	Item-03	Gula Pasir Putih 1 kg	2	12500
+22	Penjualan	11-04-2020	Sarah	Item-05	Mi Goreng Instant	1	2600
+22	Penjualan	11-04-2020	Sarah	Item-11	Sabun Cuci Piring	2	14000
+22	Penjualan	11-04-2020	Sarah	Item-16	Balsem Putih 20 gram	2	22300
+23	Penjualan	11-04-2020	Tika	Item-05	Mi Goreng Instant	4	2600
+23	Penjualan	11-04-2020	Tika	Item-07	Sabut Cuci Piring	3	7500
+23	Penjualan	11-04-2020	Tika	Item-11	Sabun Cuci Piring	4	14000
+24	Stok Masuk	12-04-2020	-	Item-02	Bawang Putih 200 gram	52	-
+24	Stok Masuk	12-04-2020	-	Item-03	Gula Pasir Putih 1 kg	41	-
+24	Stok Masuk	12-04-2020	-	Item-08	Vitamin C	27	-
+24	Stok Masuk	12-04-2020	-	Item-09	Roti Tawar	12	-
+24	Stok Masuk	12-04-2020	-	Item-13	Pisau Cukur	17	-
+24	Stok Masuk	12-04-2020	-	Item-14	Teh Celup Melati	38	-
+24	Stok Masuk	12-04-2020	-	Item-19	Obat Diare	34	-
+25	Penjualan	12-04-2020	Anggun	Item-05	Mi Goreng Instant	1	2600
+25	Penjualan	12-04-2020	Anggun	Item-08	Vitamin C	4	2000
+25	Penjualan	12-04-2020	Anggun	Item-09	Roti Tawar	3	12500
+26	Penjualan	12-04-2020	Gunawan	Item-05	Mi Goreng Instant	1	2600
+26	Penjualan	12-04-2020	Gunawan	Item-08	Vitamin C	4	2000
+26	Penjualan	12-04-2020	Gunawan	Item-09	Roti Tawar	2	12500
+27	Penjualan	12-04-2020	Krisda	Item-05	Mi Goreng Instant	3	2600
+27	Penjualan	12-04-2020	Krisda	Item-08	Vitamin C	2	2000
+27	Penjualan	12-04-2020	Krisda	Item-09	Roti Tawar	4	12500
+28	Penjualan	12-04-2020	Sri	Item-03	Gula Pasir Putih 1 kg	2	12500
+28	Penjualan	12-04-2020	Sri	Item-05	Mi Goreng Instant	2	2600
+28	Penjualan	12-04-2020	Sri	Item-08	Vitamin C	3	2000
+28	Penjualan	12-04-2020	Sri	Item-09	Roti Tawar	2	12500
+29	Penjualan	12-04-2020	Tiara	Item-05	Mi Goreng Instant	1	2600
+29	Penjualan	12-04-2020	Tiara	Item-08	Vitamin C	4	2000
+29	Penjualan	12-04-2020	Tiara	Item-11	Sabun Cuci Piring	3	14000
+30	Penjualan	12-04-2020	Yati	Item-09	Roti Tawar	1	12500
+31	Penjualan	13-04-2020	Bambang	Item-13	Pisau Cukur	1	6500
+31	Penjualan	13-04-2020	Bambang	Item-14	Teh Celup Melati	4	7800
+32	Penjualan	13-04-2020	Jaya	Item-13	Pisau Cukur	1	6500
+32	Penjualan	13-04-2020	Jaya	Item-14	Teh Celup Melati	4	7800
+33	Penjualan	13-04-2020	Kurnia	Item-08	Vitamin C	1	2000
+33	Penjualan	13-04-2020	Kurnia	Item-11	Sabun Cuci Piring	2	14000
+34	Penjualan	13-04-2020	Rian	Item-02	Bawang Putih 200 gram	4	15000
+34	Penjualan	13-04-2020	Rian	Item-03	Gula Pasir Putih 1 kg	3	12500
+34	Penjualan	13-04-2020	Rian	Item-11	Sabun Cuci Piring	2	14000
+34	Penjualan	13-04-2020	Rian	Item-13	Pisau Cukur	1	6500
+34	Penjualan	13-04-2020	Rian	Item-14	Teh Celup Melati	3	7800
+35	Penjualan	13-04-2020	Rizki	Item-03	Gula Pasir Putih 1 kg	3	12500
+35	Penjualan	13-04-2020	Rizki	Item-08	Vitamin C	4	2000
+35	Penjualan	13-04-2020	Rizki	Item-11	Sabun Cuci Piring	3	14000
+35	Penjualan	13-04-2020	Rizki	Item-13	Pisau Cukur	1	6500
+36	Penjualan	13-04-2020	Silvia	Item-05	Mi Goreng Instant	1	2600
+36	Penjualan	13-04-2020	Silvia	Item-08	Vitamin C	4	2000
+36	Penjualan	13-04-2020	Silvia	Item-11	Sabun Cuci Piring	2	14000
+37	Penjualan	13-04-2020	Tia	Item-14	Teh Celup Melati	1	7800
+38	Penjualan	13-04-2020	Ujang	Item-08	Vitamin C	1	2000
+38	Penjualan	13-04-2020	Ujang	Item-11	Sabun Cuci Piring	3	14000
+38	Penjualan	13-04-2020	Ujang	Item-13	Pisau Cukur	2	6500
+39	Penjualan	13-04-2020	Wahyu	Item-02	Bawang Putih 200 gram	3	15000
+39	Penjualan	13-04-2020	Wahyu	Item-03	Gula Pasir Putih 1 kg	3	12500
+39	Penjualan	13-04-2020	Wahyu	Item-11	Sabun Cuci Piring	2	14000
+39	Penjualan	13-04-2020	Wahyu	Item-13	Pisau Cukur	3	6500
+39	Penjualan	13-04-2020	Wahyu	Item-14	Teh Celup Melati	3	7800
+40	Stok Masuk	14-04-2020	-	Item-05	Mi Goreng Instant	71	-
+40	Stok Masuk	14-04-2020	-	Item-06	Sabun Mandi Cair 100 ml	69	-
+41	Penjualan	14-04-2020	Ayu	Item-03	Gula Pasir Putih 1 kg	2	12500
+41	Penjualan	14-04-2020	Ayu	Item-05	Mi Goreng Instant	2	2600
+41	Penjualan	14-04-2020	Ayu	Item-06	Sabun Mandi Cair 100 ml	2	10500
+41	Penjualan	14-04-2020	Ayu	Item-14	Teh Celup Melati	4	7800
+42	Penjualan	14-04-2020	Citra	Item-14	Teh Celup Melati	1	7800
+43	Penjualan	14-04-2020	Erlangga	Item-02	Bawang Putih 200 gram	2	15000
+43	Penjualan	14-04-2020	Erlangga	Item-03	Gula Pasir Putih 1 kg	1	12500
+43	Penjualan	14-04-2020	Erlangga	Item-05	Mi Goreng Instant	4	2600
+43	Penjualan	14-04-2020	Erlangga	Item-06	Sabun Mandi Cair 100 ml	2	10500
+43	Penjualan	14-04-2020	Erlangga	Item-14	Teh Celup Melati	1	7800
+44	Penjualan	14-04-2020	Farah	Item-02	Bawang Putih 200 gram	3	15000
+44	Penjualan	14-04-2020	Farah	Item-03	Gula Pasir Putih 1 kg	4	12500
+44	Penjualan	14-04-2020	Farah	Item-05	Mi Goreng Instant	4	2600
+44	Penjualan	14-04-2020	Farah	Item-06	Sabun Mandi Cair 100 ml	2	10500
+44	Penjualan	14-04-2020	Farah	Item-14	Teh Celup Melati	1	7800
+45	Penjualan	14-04-2020	Feri	Item-05	Mi Goreng Instant	4	2600
+45	Penjualan	14-04-2020	Feri	Item-06	Sabun Mandi Cair 100 ml	1	10500
+45	Penjualan	14-04-2020	Feri	Item-14	Teh Celup Melati	1	7800
+46	Penjualan	14-04-2020	Fitri	Item-11	Sabun Cuci Piring	4	14000
+47	Penjualan	14-04-2020	Galang	Item-02	Bawang Putih 200 gram	3	15000
+47	Penjualan	14-04-2020	Galang	Item-03	Gula Pasir Putih 1 kg	2	12500
+47	Penjualan	14-04-2020	Galang	Item-05	Mi Goreng Instant	3	2600
+47	Penjualan	14-04-2020	Galang	Item-06	Sabun Mandi Cair 100 ml	4	10500
+47	Penjualan	14-04-2020	Galang	Item-14	Teh Celup Melati	1	7800
+48	Penjualan	14-04-2020	Lestari	Item-05	Mi Goreng Instant	4	2600
+48	Penjualan	14-04-2020	Lestari	Item-06	Sabun Mandi Cair 100 ml	3	10500
+48	Penjualan	14-04-2020	Lestari	Item-13	Pisau Cukur	4	6500
+49	Penjualan	14-04-2020	Marta	Item-11	Sabun Cuci Piring	2	14000
+50	Penjualan	14-04-2020	Putri	Item-14	Teh Celup Melati	3	7800
+51	Penjualan	14-04-2020	Rafi	Item-05	Mi Goreng Instant	2	2600
+51	Penjualan	14-04-2020	Rafi	Item-06	Sabun Mandi Cair 100 ml	1	10500
+51	Penjualan	14-04-2020	Rafi	Item-14	Teh Celup Melati	2	7800
+52	Penjualan	14-04-2020	Sarah	Item-03	Gula Pasir Putih 1 kg	4	12500
+52	Penjualan	14-04-2020	Sarah	Item-05	Mi Goreng Instant	3	2600
+52	Penjualan	14-04-2020	Sarah	Item-06	Sabun Mandi Cair 100 ml	4	10500
+52	Penjualan	14-04-2020	Sarah	Item-14	Teh Celup Melati	4	7800
+53	Penjualan	14-04-2020	Siti	Item-05	Mi Goreng Instant	4	2600
+53	Penjualan	14-04-2020	Siti	Item-06	Sabun Mandi Cair 100 ml	4	10500
+53	Penjualan	14-04-2020	Siti	Item-13	Pisau Cukur	4	6500
+54	Penjualan	14-04-2020	Wardi	Item-02	Bawang Putih 200 gram	4	15000
+54	Penjualan	14-04-2020	Wardi	Item-03	Gula Pasir Putih 1 kg	3	12500
+54	Penjualan	14-04-2020	Wardi	Item-05	Mi Goreng Instant	4	2600
+54	Penjualan	14-04-2020	Wardi	Item-06	Sabun Mandi Cair 100 ml	2	10500
+54	Penjualan	14-04-2020	Wardi	Item-14	Teh Celup Melati	4	7800
+55	Penjualan	14-04-2020	Yuli	Item-06	Sabun Mandi Cair 100 ml	2	10500
+55	Penjualan	14-04-2020	Yuli	Item-14	Teh Celup Melati	1	7800
+56	Stok Masuk	15-04-2020	-	Item-02	Bawang Putih 200 gram	58	-
+56	Stok Masuk	15-04-2020	-	Item-03	Gula Pasir Putih 1 kg	45	-
+56	Stok Masuk	15-04-2020	-	Item-09	Roti Tawar	10	-
+56	Stok Masuk	15-04-2020	-	Item-10	Biskuit Waver Kaleng	73	-
+56	Stok Masuk	15-04-2020	-	Item-18	Telur Ayam Negeri	73	-
+57	Penjualan	15-04-2020	Andi	Item-06	Sabun Mandi Cair 100 ml	4	10500
+57	Penjualan	15-04-2020	Andi	Item-09	Roti Tawar	3	12500
+58	Penjualan	15-04-2020	Andika	Item-05	Mi Goreng Instant	1	2600
+58	Penjualan	15-04-2020	Andika	Item-06	Sabun Mandi Cair 100 ml	1	10500
+58	Penjualan	15-04-2020	Andika	Item-09	Roti Tawar	2	12500
+59	Penjualan	15-04-2020	Anggun	Item-09	Roti Tawar	2	12500
+60	Penjualan	15-04-2020	Ardi	Item-03	Gula Pasir Putih 1 kg	2	12500
+60	Penjualan	15-04-2020	Ardi	Item-05	Mi Goreng Instant	4	2600
+60	Penjualan	15-04-2020	Ardi	Item-06	Sabun Mandi Cair 100 ml	3	10500
+60	Penjualan	15-04-2020	Ardi	Item-09	Roti Tawar	1	12500
+61	Penjualan	15-04-2020	Deni	Item-02	Bawang Putih 200 gram	1	15000
+61	Penjualan	15-04-2020	Deni	Item-03	Gula Pasir Putih 1 kg	4	12500
+61	Penjualan	15-04-2020	Deni	Item-05	Mi Goreng Instant	3	2600
+61	Penjualan	15-04-2020	Deni	Item-06	Sabun Mandi Cair 100 ml	4	10500
+61	Penjualan	15-04-2020	Deni	Item-10	Biskuit Waver Kaleng	4	24000
+62	Penjualan	15-04-2020	Komang	Item-06	Sabun Mandi Cair 100 ml	4	10500
+62	Penjualan	15-04-2020	Komang	Item-10	Biskuit Waver Kaleng	1	24000
+63	Penjualan	15-04-2020	Nita	Item-06	Sabun Mandi Cair 100 ml	3	10500
+63	Penjualan	15-04-2020	Nita	Item-10	Biskuit Waver Kaleng	4	24000
+64	Penjualan	15-04-2020	Rahma	Item-06	Sabun Mandi Cair 100 ml	2	10500
+64	Penjualan	15-04-2020	Rahma	Item-09	Roti Tawar	2	12500
+65	Penjualan	15-04-2020	Tasya	Item-06	Sabun Mandi Cair 100 ml	2	10500
+65	Penjualan	15-04-2020	Tasya	Item-10	Biskuit Waver Kaleng	1	24000
+66	Stok Masuk	16-04-2020	-	Item-04	Kopi Instant	45	-
+66	Stok Masuk	16-04-2020	-	Item-17	Obat Batuk	41	-
+67	Penjualan	16-04-2020	Bagus	Item-03	Gula Pasir Putih 1 kg	4	12500
+67	Penjualan	16-04-2020	Bagus	Item-04	Kopi Instant	4	5200
+67	Penjualan	16-04-2020	Bagus	Item-05	Mi Goreng Instant	4	2600
+67	Penjualan	16-04-2020	Bagus	Item-10	Biskuit Waver Kaleng	3	24000
+68	Penjualan	16-04-2020	Bayu	Item-10	Biskuit Waver Kaleng	2	24000
+69	Penjualan	16-04-2020	Fajri	Item-04	Kopi Instant	3	5200
+69	Penjualan	16-04-2020	Fajri	Item-05	Mi Goreng Instant	2	2600
+69	Penjualan	16-04-2020	Fajri	Item-10	Biskuit Waver Kaleng	4	24000
+70	Penjualan	16-04-2020	Hengky	Item-06	Sabun Mandi Cair 100 ml	4	10500
+71	Penjualan	16-04-2020	Indah	Item-02	Bawang Putih 200 gram	3	15000
+71	Penjualan	16-04-2020	Indah	Item-03	Gula Pasir Putih 1 kg	4	12500
+71	Penjualan	16-04-2020	Indah	Item-04	Kopi Instant	4	5200
+71	Penjualan	16-04-2020	Indah	Item-05	Mi Goreng Instant	2	2600
+71	Penjualan	16-04-2020	Indah	Item-06	Sabun Mandi Cair 100 ml	4	10500
+72	Penjualan	16-04-2020	Krisda	Item-03	Gula Pasir Putih 1 kg	3	12500
+72	Penjualan	16-04-2020	Krisda	Item-04	Kopi Instant	2	5200
+72	Penjualan	16-04-2020	Krisda	Item-05	Mi Goreng Instant	4	2600
+72	Penjualan	16-04-2020	Krisda	Item-06	Sabun Mandi Cair 100 ml	4	10500
+73	Penjualan	16-04-2020	Murni	Item-03	Gula Pasir Putih 1 kg	2	12500
+73	Penjualan	16-04-2020	Murni	Item-04	Kopi Instant	4	5200
+73	Penjualan	16-04-2020	Murni	Item-05	Mi Goreng Instant	2	2600
+73	Penjualan	16-04-2020	Murni	Item-06	Sabun Mandi Cair 100 ml	2	10500
+74	Penjualan	16-04-2020	Rizki	Item-03	Gula Pasir Putih 1 kg	2	12500
+74	Penjualan	16-04-2020	Rizki	Item-04	Kopi Instant	3	5200
+74	Penjualan	16-04-2020	Rizki	Item-05	Mi Goreng Instant	3	2600
+74	Penjualan	16-04-2020	Rizki	Item-06	Sabun Mandi Cair 100 ml	4	10500
+75	Penjualan	16-04-2020	Yati	Item-03	Gula Pasir Putih 1 kg	2	12500
+75	Penjualan	16-04-2020	Yati	Item-04	Kopi Instant	1	5200
+75	Penjualan	16-04-2020	Yati	Item-05	Mi Goreng Instant	3	2600
+75	Penjualan	16-04-2020	Yati	Item-10	Biskuit Waver Kaleng	4	24000
+76	Penjualan	16-04-2020	Yudhi	Item-03	Gula Pasir Putih 1 kg	2	12500
+76	Penjualan	16-04-2020	Yudhi	Item-04	Kopi Instant	4	5200
+76	Penjualan	16-04-2020	Yudhi	Item-05	Mi Goreng Instant	4	2600
+76	Penjualan	16-04-2020	Yudhi	Item-06	Sabun Mandi Cair 100 ml	1	10500
+77	Stok Masuk	17-04-2020	-	Item-11	Sabun Cuci Piring	35	-
+78	Penjualan	17-04-2020	Bambang	Item-10	Biskuit Waver Kaleng	4	24000
+78	Penjualan	17-04-2020	Bambang	Item-11	Sabun Cuci Piring	1	14000
+78	Penjualan	17-04-2020	Bambang	Item-17	Obat Batuk	2	5000
+79	Penjualan	17-04-2020	Citra	Item-10	Biskuit Waver Kaleng	3	24000
+80	Penjualan	17-04-2020	Deni	Item-10	Biskuit Waver Kaleng	3	24000
+81	Penjualan	17-04-2020	Diki	Item-02	Bawang Putih 200 gram	1	15000
+81	Penjualan	17-04-2020	Diki	Item-03	Gula Pasir Putih 1 kg	3	12500
+81	Penjualan	17-04-2020	Diki	Item-04	Kopi Instant	1	5200
+81	Penjualan	17-04-2020	Diki	Item-10	Biskuit Waver Kaleng	1	24000
+81	Penjualan	17-04-2020	Diki	Item-11	Sabun Cuci Piring	4	14000
+82	Penjualan	17-04-2020	Farah	Item-02	Bawang Putih 200 gram	3	15000
+82	Penjualan	17-04-2020	Farah	Item-03	Gula Pasir Putih 1 kg	1	12500
+82	Penjualan	17-04-2020	Farah	Item-04	Kopi Instant	3	5200
+82	Penjualan	17-04-2020	Farah	Item-10	Biskuit Waver Kaleng	2	24000
+82	Penjualan	17-04-2020	Farah	Item-11	Sabun Cuci Piring	2	14000
+83	Penjualan	17-04-2020	Gunawan	Item-03	Gula Pasir Putih 1 kg	2	12500
+83	Penjualan	17-04-2020	Gunawan	Item-04	Kopi Instant	4	5200
+83	Penjualan	17-04-2020	Gunawan	Item-10	Biskuit Waver Kaleng	3	24000
+83	Penjualan	17-04-2020	Gunawan	Item-11	Sabun Cuci Piring	4	14000
+84	Penjualan	17-04-2020	Hadi	Item-10	Biskuit Waver Kaleng	3	24000
+84	Penjualan	17-04-2020	Hadi	Item-11	Sabun Cuci Piring	4	14000
+85	Penjualan	17-04-2020	Hasan	Item-04	Kopi Instant	1	5200
+85	Penjualan	17-04-2020	Hasan	Item-10	Biskuit Waver Kaleng	2	24000
+85	Penjualan	17-04-2020	Hasan	Item-11	Sabun Cuci Piring	4	14000
+86	Penjualan	17-04-2020	Kurnia	Item-02	Bawang Putih 200 gram	1	15000
+86	Penjualan	17-04-2020	Kurnia	Item-03	Gula Pasir Putih 1 kg	1	12500
+86	Penjualan	17-04-2020	Kurnia	Item-10	Biskuit Waver Kaleng	1	24000
+86	Penjualan	17-04-2020	Kurnia	Item-11	Sabun Cuci Piring	3	14000
+86	Penjualan	17-04-2020	Kurnia	Item-17	Obat Batuk	1	5000
+87	Penjualan	17-04-2020	Rafi	Item-04	Kopi Instant	2	5200
+87	Penjualan	17-04-2020	Rafi	Item-05	Mi Goreng Instant	2	2600
+87	Penjualan	17-04-2020	Rafi	Item-10	Biskuit Waver Kaleng	1	24000
+88	Penjualan	17-04-2020	Rian	Item-04	Kopi Instant	1	5200
+88	Penjualan	17-04-2020	Rian	Item-05	Mi Goreng Instant	2	2600
+88	Penjualan	17-04-2020	Rian	Item-10	Biskuit Waver Kaleng	3	24000
+89	Penjualan	17-04-2020	Sandi	Item-10	Biskuit Waver Kaleng	1	24000
+89	Penjualan	17-04-2020	Sandi	Item-11	Sabun Cuci Piring	3	14000
+90	Penjualan	17-04-2020	Sarah	Item-02	Bawang Putih 200 gram	2	15000
+90	Penjualan	17-04-2020	Sarah	Item-03	Gula Pasir Putih 1 kg	1	12500
+90	Penjualan	17-04-2020	Sarah	Item-04	Kopi Instant	3	5200
+90	Penjualan	17-04-2020	Sarah	Item-05	Mi Goreng Instant	1	2600
+90	Penjualan	17-04-2020	Sarah	Item-10	Biskuit Waver Kaleng	3	24000
+91	Penjualan	17-04-2020	Ujang	Item-11	Sabun Cuci Piring	3	14000
+92	Penjualan	17-04-2020	Wardi	Item-04	Kopi Instant	4	5200
+92	Penjualan	17-04-2020	Wardi	Item-10	Biskuit Waver Kaleng	1	24000
+92	Penjualan	17-04-2020	Wardi	Item-11	Sabun Cuci Piring	3	14000
+93	Penjualan	17-04-2020	Wulan	Item-04	Kopi Instant	1	5200
+93	Penjualan	17-04-2020	Wulan	Item-10	Biskuit Waver Kaleng	4	24000
+93	Penjualan	17-04-2020	Wulan	Item-11	Sabun Cuci Piring	1	14000
+94	Penjualan	17-04-2020	Yansen	Item-10	Biskuit Waver Kaleng	4	24000
+94	Penjualan	17-04-2020	Yansen	Item-11	Sabun Cuci Piring	3	14000
+95	Stok Masuk	18-04-2020	-	Item-02	Bawang Putih 200 gram	21	-
+95	Stok Masuk	18-04-2020	-	Item-09	Roti Tawar	11	-
+95	Stok Masuk	18-04-2020	-	Item-19	Obat Diare	25	-
+96	Penjualan	18-04-2020	Agung	Item-19	Obat Diare	3	5000
+97	Penjualan	18-04-2020	Agus	Item-17	Obat Batuk	4	5000
+97	Penjualan	18-04-2020	Agus	Item-18	Telur Ayam Negeri	4	1700
+97	Penjualan	18-04-2020	Agus	Item-19	Obat Diare	1	5000
+98	Penjualan	18-04-2020	Fitri	Item-03	Gula Pasir Putih 1 kg	3	12500
+98	Penjualan	18-04-2020	Fitri	Item-09	Roti Tawar	2	12500
+98	Penjualan	18-04-2020	Fitri	Item-10	Biskuit Waver Kaleng	1	24000
+98	Penjualan	18-04-2020	Fitri	Item-17	Obat Batuk	4	5000
+99	Penjualan	18-04-2020	Lestari	Item-09	Roti Tawar	2	12500
+99	Penjualan	18-04-2020	Lestari	Item-17	Obat Batuk	2	5000
+99	Penjualan	18-04-2020	Lestari	Item-18	Telur Ayam Negeri	3	1700
+100	Penjualan	18-04-2020	Silvia	Item-10	Biskuit Waver Kaleng	2	24000
+100	Penjualan	18-04-2020	Silvia	Item-17	Obat Batuk	2	5000
+101	Penjualan	18-04-2020	Tika	Item-02	Bawang Putih 200 gram	4	15000
+101	Penjualan	18-04-2020	Tika	Item-03	Gula Pasir Putih 1 kg	4	12500
+101	Penjualan	18-04-2020	Tika	Item-09	Roti Tawar	4	12500
+101	Penjualan	18-04-2020	Tika	Item-10	Biskuit Waver Kaleng	1	24000
+101	Penjualan	18-04-2020	Tika	Item-17	Obat Batuk	3	5000
+102	Penjualan	18-04-2020	Wahyu	Item-10	Biskuit Waver Kaleng	4	24000
+102	Penjualan	18-04-2020	Wahyu	Item-17	Obat Batuk	1	5000
+103	Penjualan	18-04-2020	Zahra	Item-03	Gula Pasir Putih 1 kg	4	12500
+103	Penjualan	18-04-2020	Zahra	Item-09	Roti Tawar	3	12500
+103	Penjualan	18-04-2020	Zahra	Item-10	Biskuit Waver Kaleng	3	24000
+103	Penjualan	18-04-2020	Zahra	Item-17	Obat Batuk	3	5000
+104	Stok Masuk	19-04-2020	-	Item-01	Batere AA	91	-
+104	Stok Masuk	19-04-2020	-	Item-03	Gula Pasir Putih 1 kg	45	-
+104	Stok Masuk	19-04-2020	-	Item-05	Mi Goreng Instant	26	-
+104	Stok Masuk	19-04-2020	-	Item-08	Vitamin C	53	-
+104	Stok Masuk	19-04-2020	-	Item-09	Roti Tawar	11	-
+105	Penjualan	19-04-2020	Asep	Item-01	Batere AA	4	12000
+105	Penjualan	19-04-2020	Asep	Item-02	Bawang Putih 200 gram	1	15000
+105	Penjualan	19-04-2020	Asep	Item-03	Gula Pasir Putih 1 kg	3	12500
+105	Penjualan	19-04-2020	Asep	Item-05	Mi Goreng Instant	1	2600
+105	Penjualan	19-04-2020	Asep	Item-08	Vitamin C	3	2000
+106	Penjualan	19-04-2020	Bella	Item-08	Vitamin C	3	2000
+107	Penjualan	19-04-2020	Indah	Item-08	Vitamin C	4	2000
+108	Penjualan	19-04-2020	Iqbal	Item-02	Bawang Putih 200 gram	1	15000
+108	Penjualan	19-04-2020	Iqbal	Item-03	Gula Pasir Putih 1 kg	2	12500
+108	Penjualan	19-04-2020	Iqbal	Item-09	Roti Tawar	2	12500
+108	Penjualan	19-04-2020	Iqbal	Item-17	Obat Batuk	4	5000
+109	Penjualan	19-04-2020	Mahmud	Item-01	Batere AA	1	12000
+109	Penjualan	19-04-2020	Mahmud	Item-02	Bawang Putih 200 gram	2	15000
+109	Penjualan	19-04-2020	Mahmud	Item-03	Gula Pasir Putih 1 kg	4	12500
+109	Penjualan	19-04-2020	Mahmud	Item-05	Mi Goreng Instant	3	2600
+109	Penjualan	19-04-2020	Mahmud	Item-08	Vitamin C	4	2000
+110	Penjualan	19-04-2020	Putra	Item-08	Vitamin C	4	2000
+111	Penjualan	19-04-2020	Rahma	Item-08	Vitamin C	3	2000
+112	Penjualan	19-04-2020	Rahmad	Item-02	Bawang Putih 200 gram	1	15000
+112	Penjualan	19-04-2020	Rahmad	Item-03	Gula Pasir Putih 1 kg	4	12500
+112	Penjualan	19-04-2020	Rahmad	Item-05	Mi Goreng Instant	1	2600
+112	Penjualan	19-04-2020	Rahmad	Item-08	Vitamin C	4	2000
+113	Penjualan	19-04-2020	Randi	Item-08	Vitamin C	2	2000
+114	Penjualan	19-04-2020	Rita	Item-02	Bawang Putih 200 gram	3	15000
+114	Penjualan	19-04-2020	Rita	Item-03	Gula Pasir Putih 1 kg	2	12500
+114	Penjualan	19-04-2020	Rita	Item-05	Mi Goreng Instant	1	2600
+114	Penjualan	19-04-2020	Rita	Item-08	Vitamin C	3	2000
+115	Penjualan	19-04-2020	Rizki	Item-02	Bawang Putih 200 gram	4	15000
+115	Penjualan	19-04-2020	Rizki	Item-03	Gula Pasir Putih 1 kg	2	12500
+115	Penjualan	19-04-2020	Rizki	Item-05	Mi Goreng Instant	1	2600
+115	Penjualan	19-04-2020	Rizki	Item-09	Roti Tawar	4	12500
+116	Penjualan	19-04-2020	Sarah	Item-05	Mi Goreng Instant	3	2600
+116	Penjualan	19-04-2020	Sarah	Item-08	Vitamin C	4	2000
+117	Penjualan	19-04-2020	Siti	Item-05	Mi Goreng Instant	1	2600
+117	Penjualan	19-04-2020	Siti	Item-08	Vitamin C	3	2000
+118	Penjualan	19-04-2020	Tasya	Item-08	Vitamin C	4	2000
+119	Penjualan	19-04-2020	Tiara	Item-08	Vitamin C	2	2000
+120	Penjualan	19-04-2020	Tri	Item-02	Bawang Putih 200 gram	3	15000
+120	Penjualan	19-04-2020	Tri	Item-03	Gula Pasir Putih 1 kg	3	12500
+120	Penjualan	19-04-2020	Tri	Item-05	Mi Goreng Instant	3	2600
+120	Penjualan	19-04-2020	Tri	Item-08	Vitamin C	2	2000
+121	Penjualan	19-04-2020	Yansen	Item-03	Gula Pasir Putih 1 kg	1	12500
+121	Penjualan	19-04-2020	Yansen	Item-05	Mi Goreng Instant	4	2600
+121	Penjualan	19-04-2020	Yansen	Item-08	Vitamin C	2	2000
+122	Penjualan	19-04-2020	Yati	Item-05	Mi Goreng Instant	3	2600
+122	Penjualan	19-04-2020	Yati	Item-08	Vitamin C	3	2000
+123	Penjualan	19-04-2020	Yuli	Item-05	Mi Goreng Instant	4	2600
+123	Penjualan	19-04-2020	Yuli	Item-08	Vitamin C	2	2000
+124	Penjualan	19-04-2020	Zaki	Item-03	Gula Pasir Putih 1 kg	2	12500
+124	Penjualan	19-04-2020	Zaki	Item-05	Mi Goreng Instant	1	2600
+124	Penjualan	19-04-2020	Zaki	Item-08	Vitamin C	1	2000
+125	Stok Masuk	20-04-2020	-	Item-02	Bawang Putih 200 gram	40	-
+125	Stok Masuk	20-04-2020	-	Item-14	Teh Celup Melati	20	-
+125	Stok Masuk	20-04-2020	-	Item-18	Telur Ayam Negeri	66	-
+125	Stok Masuk	20-04-2020	-	Item-20	Gunting Kuku	18	-
+126	Penjualan	20-04-2020	Anggun	Item-14	Teh Celup Melati	1	7800
+126	Penjualan	20-04-2020	Anggun	Item-17	Obat Batuk	1	5000
+127	Penjualan	20-04-2020	Ardi	Item-01	Batere AA	1	12000
+127	Penjualan	20-04-2020	Ardi	Item-02	Bawang Putih 200 gram	4	15000
+127	Penjualan	20-04-2020	Ardi	Item-03	Gula Pasir Putih 1 kg	2	12500
+127	Penjualan	20-04-2020	Ardi	Item-14	Teh Celup Melati	4	7800
+127	Penjualan	20-04-2020	Ardi	Item-17	Obat Batuk	1	5000
+128	Penjualan	20-04-2020	Ayu	Item-02	Bawang Putih 200 gram	4	15000
+128	Penjualan	20-04-2020	Ayu	Item-03	Gula Pasir Putih 1 kg	1	12500
+128	Penjualan	20-04-2020	Ayu	Item-09	Roti Tawar	2	12500
+128	Penjualan	20-04-2020	Ayu	Item-14	Teh Celup Melati	4	7800
+129	Penjualan	20-04-2020	Citra	Item-03	Gula Pasir Putih 1 kg	2	12500
+129	Penjualan	20-04-2020	Citra	Item-17	Obat Batuk	3	5000
+129	Penjualan	20-04-2020	Citra	Item-18	Telur Ayam Negeri	4	1700
+130	Penjualan	20-04-2020	Deni	Item-03	Gula Pasir Putih 1 kg	3	12500
+130	Penjualan	20-04-2020	Deni	Item-17	Obat Batuk	2	5000
+130	Penjualan	20-04-2020	Deni	Item-18	Telur Ayam Negeri	3	1700
+131	Penjualan	20-04-2020	Feri	Item-18	Telur Ayam Negeri	2	1700
+132	Penjualan	20-04-2020	Fitri	Item-01	Batere AA	4	12000
+132	Penjualan	20-04-2020	Fitri	Item-02	Bawang Putih 200 gram	1	15000
+132	Penjualan	20-04-2020	Fitri	Item-03	Gula Pasir Putih 1 kg	3	12500
+132	Penjualan	20-04-2020	Fitri	Item-14	Teh Celup Melati	2	7800
+132	Penjualan	20-04-2020	Fitri	Item-17	Obat Batuk	1	5000
+133	Penjualan	20-04-2020	Kardi	Item-02	Bawang Putih 200 gram	4	15000
+133	Penjualan	20-04-2020	Kardi	Item-03	Gula Pasir Putih 1 kg	3	12500
+133	Penjualan	20-04-2020	Kardi	Item-17	Obat Batuk	1	5000
+133	Penjualan	20-04-2020	Kardi	Item-18	Telur Ayam Negeri	2	1700
+134	Penjualan	20-04-2020	Komang	Item-09	Roti Tawar	3	12500
+134	Penjualan	20-04-2020	Komang	Item-14	Teh Celup Melati	1	7800
+135	Penjualan	20-04-2020	Krisda	Item-17	Obat Batuk	4	5000
+136	Penjualan	20-04-2020	Marta	Item-01	Batere AA	4	12000
+136	Penjualan	20-04-2020	Marta	Item-02	Bawang Putih 200 gram	2	15000
+136	Penjualan	20-04-2020	Marta	Item-03	Gula Pasir Putih 1 kg	3	12500
+136	Penjualan	20-04-2020	Marta	Item-14	Teh Celup Melati	2	7800
+136	Penjualan	20-04-2020	Marta	Item-17	Obat Batuk	3	5000
+137	Penjualan	20-04-2020	Mita, Mira	Item-02	Bawang Putih 200 gram	3	15000
+137	Penjualan	20-04-2020	Mita, Mira	Item-03	Gula Pasir Putih 1 kg	4	12500
+137	Penjualan	20-04-2020	Mita, Mira	Item-14	Teh Celup Melati	4	7800
+137	Penjualan	20-04-2020	Mita, Mira	Item-17	Obat Batuk	2	5000
+138	Penjualan	20-04-2020	Nita	Item-03	Gula Pasir Putih 1 kg	2	12500
+138	Penjualan	20-04-2020	Nita	Item-14	Teh Celup Melati	1	7800
+138	Penjualan	20-04-2020	Nita	Item-17	Obat Batuk	4	5000
+139	Penjualan	20-04-2020	Nur	Item-17	Obat Batuk	3	5000
+139	Penjualan	20-04-2020	Nur	Item-18	Telur Ayam Negeri	4	1700
+140	Penjualan	20-04-2020	Putri	Item-17	Obat Batuk	2	5000
+140	Penjualan	20-04-2020	Putri	Item-18	Telur Ayam Negeri	1	1700
+141	Penjualan	20-04-2020	Rafi	Item-03	Gula Pasir Putih 1 kg	3	12500
+141	Penjualan	20-04-2020	Rafi	Item-14	Teh Celup Melati	1	7800
+141	Penjualan	20-04-2020	Rafi	Item-17	Obat Batuk	2	5000
+142	Penjualan	20-04-2020	Rasyid	Item-03	Gula Pasir Putih 1 kg	1	12500
+142	Penjualan	20-04-2020	Rasyid	Item-17	Obat Batuk	4	5000
+142	Penjualan	20-04-2020	Rasyid	Item-18	Telur Ayam Negeri	4	1700
+143	Penjualan	20-04-2020	Rian	Item-03	Gula Pasir Putih 1 kg	1	12500
+143	Penjualan	20-04-2020	Rian	Item-17	Obat Batuk	1	5000
+143	Penjualan	20-04-2020	Rian	Item-18	Telur Ayam Negeri	2	1700
+144	Stok Masuk	21-04-2020	-	Item-06	Sabun Mandi Cair 100 ml	57	-
+144	Stok Masuk	21-04-2020	-	Item-09	Roti Tawar	18	-
+144	Stok Masuk	21-04-2020	-	Item-15	Ketan Hitam 500 gram	23	-
+145	Penjualan	21-04-2020	Andika	Item-15	Ketan Hitam 500 gram	3	18000
+146	Penjualan	21-04-2020	Bagus	Item-02	Bawang Putih 200 gram	2	15000
+146	Penjualan	21-04-2020	Bagus	Item-03	Gula Pasir Putih 1 kg	1	12500
+146	Penjualan	21-04-2020	Bagus	Item-06	Sabun Mandi Cair 100 ml	4	10500
+146	Penjualan	21-04-2020	Bagus	Item-09	Roti Tawar	2	12500
+147	Penjualan	21-04-2020	Farah	Item-06	Sabun Mandi Cair 100 ml	4	10500
+147	Penjualan	21-04-2020	Farah	Item-09	Roti Tawar	2	12500
+148	Penjualan	21-04-2020	Sarah	Item-09	Roti Tawar	3	12500
+149	Penjualan	21-04-2020	Silvia	Item-03	Gula Pasir Putih 1 kg	2	12500
+149	Penjualan	21-04-2020	Silvia	Item-06	Sabun Mandi Cair 100 ml	3	10500
+149	Penjualan	21-04-2020	Silvia	Item-09	Roti Tawar	2	12500
+150	Penjualan	21-04-2020	Tia	Item-01	Batere AA	4	12000
+150	Penjualan	21-04-2020	Tia	Item-02	Bawang Putih 200 gram	1	15000
+150	Penjualan	21-04-2020	Tia	Item-03	Gula Pasir Putih 1 kg	3	12500
+150	Penjualan	21-04-2020	Tia	Item-06	Sabun Mandi Cair 100 ml	4	10500
+150	Penjualan	21-04-2020	Tia	Item-09	Roti Tawar	3	12500
+151	Penjualan	21-04-2020	Ujang	Item-09	Roti Tawar	2	12500
+152	Penjualan	21-04-2020	Wardi	Item-03	Gula Pasir Putih 1 kg	1	12500
+152	Penjualan	21-04-2020	Wardi	Item-06	Sabun Mandi Cair 100 ml	2	10500
+152	Penjualan	21-04-2020	Wardi	Item-15	Ketan Hitam 500 gram	4	18000
+153	Penjualan	21-04-2020	Wulan	Item-02	Bawang Putih 200 gram	4	15000
+153	Penjualan	21-04-2020	Wulan	Item-03	Gula Pasir Putih 1 kg	3	12500
+153	Penjualan	21-04-2020	Wulan	Item-06	Sabun Mandi Cair 100 ml	1	10500
+153	Penjualan	21-04-2020	Wulan	Item-09	Roti Tawar	4	12500
+154	Stok Masuk	22-04-2020	-	Item-02	Bawang Putih 200 gram	24	-
+154	Stok Masuk	22-04-2020	-	Item-07	Sabut Cuci Piring	15	-
+155	Penjualan	22-04-2020	Agus	Item-07	Sabut Cuci Piring	3	7500
+156	Penjualan	22-04-2020	Andi	Item-01	Batere AA	4	12000
+156	Penjualan	22-04-2020	Andi	Item-02	Bawang Putih 200 gram	3	15000
+156	Penjualan	22-04-2020	Andi	Item-03	Gula Pasir Putih 1 kg	1	12500
+156	Penjualan	22-04-2020	Andi	Item-06	Sabun Mandi Cair 100 ml	3	10500
+156	Penjualan	22-04-2020	Andi	Item-15	Ketan Hitam 500 gram	3	18000
+157	Penjualan	22-04-2020	Bayu	Item-15	Ketan Hitam 500 gram	2	18000
+158	Penjualan	22-04-2020	Fitri	Item-03	Gula Pasir Putih 1 kg	4	12500
+158	Penjualan	22-04-2020	Fitri	Item-06	Sabun Mandi Cair 100 ml	3	10500
+158	Penjualan	22-04-2020	Fitri	Item-15	Ketan Hitam 500 gram	2	18000
+159	Penjualan	22-04-2020	Gunawan	Item-07	Sabut Cuci Piring	3	7500
+160	Penjualan	22-04-2020	Hadi	Item-03	Gula Pasir Putih 1 kg	1	12500
+160	Penjualan	22-04-2020	Hadi	Item-06	Sabun Mandi Cair 100 ml	1	10500
+160	Penjualan	22-04-2020	Hadi	Item-07	Sabut Cuci Piring	2	7500
+161	Penjualan	22-04-2020	Indah	Item-01	Batere AA	2	12000
+161	Penjualan	22-04-2020	Indah	Item-02	Bawang Putih 200 gram	2	15000
+161	Penjualan	22-04-2020	Indah	Item-03	Gula Pasir Putih 1 kg	1	12500
+161	Penjualan	22-04-2020	Indah	Item-06	Sabun Mandi Cair 100 ml	1	10500
+161	Penjualan	22-04-2020	Indah	Item-15	Ketan Hitam 500 gram	2	18000
+162	Penjualan	22-04-2020	Jaya	Item-01	Batere AA	4	12000
+162	Penjualan	22-04-2020	Jaya	Item-02	Bawang Putih 200 gram	4	15000
+162	Penjualan	22-04-2020	Jaya	Item-03	Gula Pasir Putih 1 kg	1	12500
+162	Penjualan	22-04-2020	Jaya	Item-06	Sabun Mandi Cair 100 ml	1	10500
+162	Penjualan	22-04-2020	Jaya	Item-15	Ketan Hitam 500 gram	1	18000
+163	Penjualan	22-04-2020	Lestari	Item-07	Sabut Cuci Piring	1	7500
+164	Penjualan	22-04-2020	Rizki	Item-06	Sabun Mandi Cair 100 ml	1	10500
+164	Penjualan	22-04-2020	Rizki	Item-15	Ketan Hitam 500 gram	2	18000
+165	Penjualan	22-04-2020	Sandi	Item-06	Sabun Mandi Cair 100 ml	3	10500
+165	Penjualan	22-04-2020	Sandi	Item-15	Ketan Hitam 500 gram	1	18000
+166	Penjualan	22-04-2020	Sri	Item-07	Sabut Cuci Piring	3	7500
+167	Penjualan	22-04-2020	Tiara	Item-03	Gula Pasir Putih 1 kg	3	12500
+167	Penjualan	22-04-2020	Tiara	Item-06	Sabun Mandi Cair 100 ml	1	10500
+167	Penjualan	22-04-2020	Tiara	Item-15	Ketan Hitam 500 gram	2	18000
+168	Penjualan	22-04-2020	Yudhi	Item-15	Ketan Hitam 500 gram	1	18000
+169	Penjualan	22-04-2020	Yuli	Item-02	Bawang Putih 200 gram	1	15000
+169	Penjualan	22-04-2020	Yuli	Item-03	Gula Pasir Putih 1 kg	1	12500
+169	Penjualan	22-04-2020	Yuli	Item-06	Sabun Mandi Cair 100 ml	2	10500
+169	Penjualan	22-04-2020	Yuli	Item-07	Sabut Cuci Piring	3	7500
+170	Stok Masuk	23-04-2020	-	Item-03	Gula Pasir Putih 1 kg	35	-
+170	Stok Masuk	23-04-2020	-	Item-09	Roti Tawar	16	-
+170	Stok Masuk	23-04-2020	-	Item-10	Biskuit Waver Kaleng	19	-
+170	Stok Masuk	23-04-2020	-	Item-13	Pisau Cukur	14	-
+170	Stok Masuk	23-04-2020	-	Item-16	Balsem Putih 20 gram	5	-
+170	Stok Masuk	23-04-2020	-	Item-18	Telur Ayam Negeri	76	-
+170	Stok Masuk	23-04-2020	-	Item-19	Obat Diare	34	-
+171	Penjualan	23-04-2020	Anggun	Item-09	Roti Tawar	3	12500
+172	Penjualan	23-04-2020	Citra	Item-03	Gula Pasir Putih 1 kg	1	12500
+172	Penjualan	23-04-2020	Citra	Item-06	Sabun Mandi Cair 100 ml	4	10500
+172	Penjualan	23-04-2020	Citra	Item-10	Biskuit Waver Kaleng	2	24000
+173	Penjualan	23-04-2020	Erlangga	Item-06	Sabun Mandi Cair 100 ml	3	10500
+173	Penjualan	23-04-2020	Erlangga	Item-10	Biskuit Waver Kaleng	4	24000
+174	Penjualan	23-04-2020	Fajri	Item-03	Gula Pasir Putih 1 kg	4	12500
+174	Penjualan	23-04-2020	Fajri	Item-06	Sabun Mandi Cair 100 ml	1	10500
+174	Penjualan	23-04-2020	Fajri	Item-09	Roti Tawar	3	12500
+175	Penjualan	23-04-2020	Farah	Item-02	Bawang Putih 200 gram	1	15000
+175	Penjualan	23-04-2020	Farah	Item-03	Gula Pasir Putih 1 kg	2	12500
+175	Penjualan	23-04-2020	Farah	Item-10	Biskuit Waver Kaleng	1	24000
+175	Penjualan	23-04-2020	Farah	Item-13	Pisau Cukur	4	6500
+176	Penjualan	23-04-2020	Hengky	Item-06	Sabun Mandi Cair 100 ml	2	10500
+176	Penjualan	23-04-2020	Hengky	Item-10	Biskuit Waver Kaleng	2	24000
+177	Penjualan	23-04-2020	Mita, Mira	Item-01	Batere AA	2	12000
+177	Penjualan	23-04-2020	Mita, Mira	Item-02	Bawang Putih 200 gram	3	15000
+177	Penjualan	23-04-2020	Mita, Mira	Item-03	Gula Pasir Putih 1 kg	2	12500
+177	Penjualan	23-04-2020	Mita, Mira	Item-06	Sabun Mandi Cair 100 ml	4	10500
+177	Penjualan	23-04-2020	Mita, Mira	Item-09	Roti Tawar	2	12500
+178	Penjualan	23-04-2020	Murni	Item-09	Roti Tawar	4	12500
+179	Penjualan	23-04-2020	Rafi	Item-10	Biskuit Waver Kaleng	4	24000
+180	Penjualan	23-04-2020	Rian	Item-09	Roti Tawar	4	12500
+181	Penjualan	23-04-2020	Sarah	Item-03	Gula Pasir Putih 1 kg	2	12500
+181	Penjualan	23-04-2020	Sarah	Item-06	Sabun Mandi Cair 100 ml	4	10500
+181	Penjualan	23-04-2020	Sarah	Item-10	Biskuit Waver Kaleng	4	24000
+182	Penjualan	23-04-2020	Wahyu	Item-01	Batere AA	2	12000
+182	Penjualan	23-04-2020	Wahyu	Item-02	Bawang Putih 200 gram	1	15000
+182	Penjualan	23-04-2020	Wahyu	Item-03	Gula Pasir Putih 1 kg	2	12500
+182	Penjualan	23-04-2020	Wahyu	Item-06	Sabun Mandi Cair 100 ml	1	10500
+182	Penjualan	23-04-2020	Wahyu	Item-10	Biskuit Waver Kaleng	1	24000
+183	Penjualan	23-04-2020	Yati	Item-06	Sabun Mandi Cair 100 ml	4	10500
+183	Penjualan	23-04-2020	Yati	Item-10	Biskuit Waver Kaleng	1	24000
+184	Stok Masuk	24-04-2020	-	Item-05	Mi Goreng Instant	94	-
+184	Stok Masuk	24-04-2020	-	Item-09	Roti Tawar	14	-
+184	Stok Masuk	24-04-2020	-	Item-17	Obat Batuk	41	-
+185	Penjualan	24-04-2020	Ardi	Item-03	Gula Pasir Putih 1 kg	4	12500
+185	Penjualan	24-04-2020	Ardi	Item-05	Mi Goreng Instant	4	2600
+185	Penjualan	24-04-2020	Ardi	Item-09	Roti Tawar	2	12500
+186	Penjualan	24-04-2020	Diki	Item-01	Batere AA	1	12000
+186	Penjualan	24-04-2020	Diki	Item-02	Bawang Putih 200 gram	1	15000
+186	Penjualan	24-04-2020	Diki	Item-03	Gula Pasir Putih 1 kg	2	12500
+186	Penjualan	24-04-2020	Diki	Item-05	Mi Goreng Instant	4	2600
+186	Penjualan	24-04-2020	Diki	Item-13	Pisau Cukur	4	6500
+187	Penjualan	24-04-2020	Komang	Item-02	Bawang Putih 200 gram	3	15000
+187	Penjualan	24-04-2020	Komang	Item-03	Gula Pasir Putih 1 kg	2	12500
+187	Penjualan	24-04-2020	Komang	Item-05	Mi Goreng Instant	3	2600
+187	Penjualan	24-04-2020	Komang	Item-16	Balsem Putih 20 gram	1	22300
+188	Penjualan	24-04-2020	Krisda	Item-05	Mi Goreng Instant	4	2600
+188	Penjualan	24-04-2020	Krisda	Item-16	Balsem Putih 20 gram	2	22300
+189	Penjualan	24-04-2020	Kurnia	Item-05	Mi Goreng Instant	2	2600
+189	Penjualan	24-04-2020	Kurnia	Item-09	Roti Tawar	4	12500
+190	Penjualan	24-04-2020	Nur	Item-05	Mi Goreng Instant	3	2600
+190	Penjualan	24-04-2020	Nur	Item-09	Roti Tawar	4	12500
+191	Penjualan	24-04-2020	Sandi	Item-09	Roti Tawar	1	12500
+192	Penjualan	24-04-2020	Tika	Item-05	Mi Goreng Instant	4	2600
+192	Penjualan	24-04-2020	Tika	Item-09	Roti Tawar	3	12500
+193	Penjualan	24-04-2020	Tri	Item-13	Pisau Cukur	1	6500
+194	Penjualan	24-04-2020	Wardi	Item-03	Gula Pasir Putih 1 kg	4	12500
+194	Penjualan	24-04-2020	Wardi	Item-05	Mi Goreng Instant	3	2600
+194	Penjualan	24-04-2020	Wardi	Item-13	Pisau Cukur	1	6500
+195	Penjualan	24-04-2020	Zahra	Item-03	Gula Pasir Putih 1 kg	4	12500
+195	Penjualan	24-04-2020	Zahra	Item-05	Mi Goreng Instant	3	2600
+195	Penjualan	24-04-2020	Zahra	Item-13	Pisau Cukur	4	6500
+196	Stok Masuk	25-04-2020	-	Item-02	Bawang Putih 200 gram	35	-
+196	Stok Masuk	25-04-2020	-	Item-12	Beras Pulen 5 kg	27	-
+197	Penjualan	25-04-2020	Agus	Item-01	Batere AA	3	12000
+197	Penjualan	25-04-2020	Agus	Item-02	Bawang Putih 200 gram	2	15000
+197	Penjualan	25-04-2020	Agus	Item-03	Gula Pasir Putih 1 kg	4	12500
+197	Penjualan	25-04-2020	Agus	Item-05	Mi Goreng Instant	4	2600
+197	Penjualan	25-04-2020	Agus	Item-17	Obat Batuk	1	5000
+198	Penjualan	25-04-2020	Andika	Item-01	Batere AA	1	12000
+198	Penjualan	25-04-2020	Andika	Item-02	Bawang Putih 200 gram	2	15000
+198	Penjualan	25-04-2020	Andika	Item-03	Gula Pasir Putih 1 kg	3	12500
+198	Penjualan	25-04-2020	Andika	Item-05	Mi Goreng Instant	3	2600
+198	Penjualan	25-04-2020	Andika	Item-17	Obat Batuk	1	5000
+199	Penjualan	25-04-2020	Ayu	Item-03	Gula Pasir Putih 1 kg	1	12500
+199	Penjualan	25-04-2020	Ayu	Item-05	Mi Goreng Instant	4	2600
+199	Penjualan	25-04-2020	Ayu	Item-17	Obat Batuk	4	5000
+200	Penjualan	25-04-2020	Indah	Item-12	Beras Pulen 5 kg	2	63000
+201	Penjualan	25-04-2020	Nita	Item-05	Mi Goreng Instant	3	2600
+201	Penjualan	25-04-2020	Nita	Item-12	Beras Pulen 5 kg	3	63000
+202	Penjualan	25-04-2020	Putra	Item-12	Beras Pulen 5 kg	4	63000
+203	Penjualan	25-04-2020	Putri	Item-05	Mi Goreng Instant	2	2600
+203	Penjualan	25-04-2020	Putri	Item-12	Beras Pulen 5 kg	4	63000
+204	Penjualan	25-04-2020	Rahma	Item-16	Balsem Putih 20 gram	2	22300
+205	Penjualan	25-04-2020	Rahmad	Item-05	Mi Goreng Instant	3	2600
+205	Penjualan	25-04-2020	Rahmad	Item-17	Obat Batuk	1	5000
+206	Penjualan	25-04-2020	Randi	Item-01	Batere AA	4	12000
+206	Penjualan	25-04-2020	Randi	Item-02	Bawang Putih 200 gram	2	15000
+206	Penjualan	25-04-2020	Randi	Item-03	Gula Pasir Putih 1 kg	2	12500
+206	Penjualan	25-04-2020	Randi	Item-05	Mi Goreng Instant	4	2600
+206	Penjualan	25-04-2020	Randi	Item-17	Obat Batuk	2	5000
+207	Penjualan	25-04-2020	Rita	Item-12	Beras Pulen 5 kg	4	63000
+208	Penjualan	25-04-2020	Siti	Item-01	Batere AA	4	12000
+208	Penjualan	25-04-2020	Siti	Item-02	Bawang Putih 200 gram	4	15000
+208	Penjualan	25-04-2020	Siti	Item-03	Gula Pasir Putih 1 kg	3	12500
+208	Penjualan	25-04-2020	Siti	Item-05	Mi Goreng Instant	3	2600
+208	Penjualan	25-04-2020	Siti	Item-12	Beras Pulen 5 kg	3	63000
+209	Penjualan	25-04-2020	Tasya	Item-02	Bawang Putih 200 gram	3	15000
+209	Penjualan	25-04-2020	Tasya	Item-03	Gula Pasir Putih 1 kg	2	12500
+209	Penjualan	25-04-2020	Tasya	Item-05	Mi Goreng Instant	3	2600
+209	Penjualan	25-04-2020	Tasya	Item-12	Beras Pulen 5 kg	3	63000
+210	Penjualan	25-04-2020	Ujang	Item-05	Mi Goreng Instant	2	2600
+210	Penjualan	25-04-2020	Ujang	Item-12	Beras Pulen 5 kg	2	63000
+211	Penjualan	25-04-2020	Wulan	Item-01	Batere AA	2	12000
+211	Penjualan	25-04-2020	Wulan	Item-02	Bawang Putih 200 gram	4	15000
+211	Penjualan	25-04-2020	Wulan	Item-03	Gula Pasir Putih 1 kg	1	12500
+211	Penjualan	25-04-2020	Wulan	Item-05	Mi Goreng Instant	4	2600
+211	Penjualan	25-04-2020	Wulan	Item-17	Obat Batuk	1	5000
+212	Penjualan	25-04-2020	Yansen	Item-03	Gula Pasir Putih 1 kg	1	12500
+212	Penjualan	25-04-2020	Yansen	Item-05	Mi Goreng Instant	3	2600
+212	Penjualan	25-04-2020	Yansen	Item-12	Beras Pulen 5 kg	2	63000
+213	Stok Masuk	26-04-2020	-	Item-03	Gula Pasir Putih 1 kg	38	-
+213	Stok Masuk	26-04-2020	-	Item-04	Kopi Instant	78	-
+213	Stok Masuk	26-04-2020	-	Item-06	Sabun Mandi Cair 100 ml	69	-
+213	Stok Masuk	26-04-2020	-	Item-09	Roti Tawar	15	-
+213	Stok Masuk	26-04-2020	-	Item-18	Telur Ayam Negeri	63	-
+214	Penjualan	26-04-2020	Agung	Item-04	Kopi Instant	2	5200
+214	Penjualan	26-04-2020	Agung	Item-06	Sabun Mandi Cair 100 ml	3	10500
+215	Penjualan	26-04-2020	Asep	Item-02	Bawang Putih 200 gram	4	15000
+215	Penjualan	26-04-2020	Asep	Item-03	Gula Pasir Putih 1 kg	1	12500
+215	Penjualan	26-04-2020	Asep	Item-04	Kopi Instant	3	5200
+215	Penjualan	26-04-2020	Asep	Item-06	Sabun Mandi Cair 100 ml	2	10500
+216	Penjualan	26-04-2020	Bagus	Item-05	Mi Goreng Instant	4	2600
+217	Penjualan	26-04-2020	Fitri	Item-01	Batere AA	4	12000
+217	Penjualan	26-04-2020	Fitri	Item-02	Bawang Putih 200 gram	4	15000
+217	Penjualan	26-04-2020	Fitri	Item-03	Gula Pasir Putih 1 kg	2	12500
+217	Penjualan	26-04-2020	Fitri	Item-04	Kopi Instant	3	5200
+217	Penjualan	26-04-2020	Fitri	Item-06	Sabun Mandi Cair 100 ml	3	10500
+218	Penjualan	26-04-2020	Galang	Item-02	Bawang Putih 200 gram	2	15000
+218	Penjualan	26-04-2020	Galang	Item-03	Gula Pasir Putih 1 kg	4	12500
+218	Penjualan	26-04-2020	Galang	Item-04	Kopi Instant	1	5200
+218	Penjualan	26-04-2020	Galang	Item-05	Mi Goreng Instant	1	2600
+219	Penjualan	26-04-2020	Hengky	Item-04	Kopi Instant	4	5200
+219	Penjualan	26-04-2020	Hengky	Item-05	Mi Goreng Instant	1	2600
+220	Penjualan	26-04-2020	Lestari	Item-05	Mi Goreng Instant	2	2600
+221	Penjualan	26-04-2020	Marta	Item-04	Kopi Instant	4	5200
+221	Penjualan	26-04-2020	Marta	Item-06	Sabun Mandi Cair 100 ml	1	10500
+222	Penjualan	26-04-2020	Mita, Mira	Item-01	Batere AA	4	12000
+222	Penjualan	26-04-2020	Mita, Mira	Item-02	Bawang Putih 200 gram	4	15000
+222	Penjualan	26-04-2020	Mita, Mira	Item-03	Gula Pasir Putih 1 kg	3	12500
+222	Penjualan	26-04-2020	Mita, Mira	Item-04	Kopi Instant	2	5200
+222	Penjualan	26-04-2020	Mita, Mira	Item-05	Mi Goreng Instant	3	2600
+223	Penjualan	26-04-2020	Rafi	Item-02	Bawang Putih 200 gram	2	15000
+223	Penjualan	26-04-2020	Rafi	Item-03	Gula Pasir Putih 1 kg	2	12500
+223	Penjualan	26-04-2020	Rafi	Item-04	Kopi Instant	2	5200
+223	Penjualan	26-04-2020	Rafi	Item-05	Mi Goreng Instant	3	2600
+224	Penjualan	26-04-2020	Rasyid	Item-03	Gula Pasir Putih 1 kg	3	12500
+224	Penjualan	26-04-2020	Rasyid	Item-04	Kopi Instant	3	5200
+224	Penjualan	26-04-2020	Rasyid	Item-05	Mi Goreng Instant	3	2600
+225	Penjualan	26-04-2020	Rizki	Item-05	Mi Goreng Instant	3	2600
+226	Penjualan	26-04-2020	Wardi	Item-04	Kopi Instant	3	5200
+226	Penjualan	26-04-2020	Wardi	Item-05	Mi Goreng Instant	4	2600
+227	Penjualan	26-04-2020	Yati	Item-05	Mi Goreng Instant	1	2600
+228	Penjualan	26-04-2020	Zaki	Item-04	Kopi Instant	3	5200
+228	Penjualan	26-04-2020	Zaki	Item-05	Mi Goreng Instant	1	2600
+229	Stok Masuk	27-04-2020	-	Item-02	Bawang Putih 200 gram	45	-
+229	Stok Masuk	27-04-2020	-	Item-11	Sabun Cuci Piring	22	-
+230	Penjualan	27-04-2020	Bella	Item-06	Sabun Mandi Cair 100 ml	2	10500
+231	Penjualan	27-04-2020	Farah	Item-01	Batere AA	2	12000
+231	Penjualan	27-04-2020	Farah	Item-02	Bawang Putih 200 gram	1	15000
+231	Penjualan	27-04-2020	Farah	Item-03	Gula Pasir Putih 1 kg	3	12500
+231	Penjualan	27-04-2020	Farah	Item-04	Kopi Instant	3	5200
+231	Penjualan	27-04-2020	Farah	Item-06	Sabun Mandi Cair 100 ml	1	10500
+232	Penjualan	27-04-2020	Gunawan	Item-06	Sabun Mandi Cair 100 ml	2	10500
+233	Penjualan	27-04-2020	Indah	Item-06	Sabun Mandi Cair 100 ml	2	10500
+234	Penjualan	27-04-2020	Komang	Item-01	Batere AA	1	12000
+234	Penjualan	27-04-2020	Komang	Item-02	Bawang Putih 200 gram	3	15000
+234	Penjualan	27-04-2020	Komang	Item-03	Gula Pasir Putih 1 kg	2	12500
+234	Penjualan	27-04-2020	Komang	Item-04	Kopi Instant	1	5200
+234	Penjualan	27-04-2020	Komang	Item-06	Sabun Mandi Cair 100 ml	1	10500
+235	Stok Masuk	28-04-2020	-	Item-08	Vitamin C	23	-
+235	Stok Masuk	28-04-2020	-	Item-09	Roti Tawar	16	-
+235	Stok Masuk	28-04-2020	-	Item-14	Teh Celup Melati	28	-
+236	Penjualan	28-04-2020	Ardi	Item-03	Gula Pasir Putih 1 kg	2	12500
+236	Penjualan	28-04-2020	Ardi	Item-04	Kopi Instant	3	5200
+236	Penjualan	28-04-2020	Ardi	Item-06	Sabun Mandi Cair 100 ml	2	10500
+237	Penjualan	28-04-2020	Diki	Item-03	Gula Pasir Putih 1 kg	1	12500
+237	Penjualan	28-04-2020	Diki	Item-04	Kopi Instant	2	5200
+237	Penjualan	28-04-2020	Diki	Item-06	Sabun Mandi Cair 100 ml	2	10500
+238	Penjualan	28-04-2020	Hasan	Item-04	Kopi Instant	1	5200
+238	Penjualan	28-04-2020	Hasan	Item-06	Sabun Mandi Cair 100 ml	2	10500
+239	Penjualan	28-04-2020	Krisda	Item-03	Gula Pasir Putih 1 kg	2	12500
+239	Penjualan	28-04-2020	Krisda	Item-04	Kopi Instant	1	5200
+239	Penjualan	28-04-2020	Krisda	Item-06	Sabun Mandi Cair 100 ml	1	10500
+240	Penjualan	28-04-2020	Nur	Item-02	Bawang Putih 200 gram	4	15000
+240	Penjualan	28-04-2020	Nur	Item-03	Gula Pasir Putih 1 kg	3	12500
+240	Penjualan	28-04-2020	Nur	Item-04	Kopi Instant	2	5200
+240	Penjualan	28-04-2020	Nur	Item-06	Sabun Mandi Cair 100 ml	1	10500
+241	Penjualan	28-04-2020	Rian	Item-04	Kopi Instant	3	5200
+241	Penjualan	28-04-2020	Rian	Item-06	Sabun Mandi Cair 100 ml	3	10500
+242	Penjualan	28-04-2020	Tia	Item-03	Gula Pasir Putih 1 kg	3	12500
+242	Penjualan	28-04-2020	Tia	Item-04	Kopi Instant	1	5200
+242	Penjualan	28-04-2020	Tia	Item-06	Sabun Mandi Cair 100 ml	1	10500
+243	Penjualan	28-04-2020	Wahyu	Item-01	Batere AA	3	12000
+243	Penjualan	28-04-2020	Wahyu	Item-02	Bawang Putih 200 gram	2	15000
+243	Penjualan	28-04-2020	Wahyu	Item-03	Gula Pasir Putih 1 kg	1	12500
+243	Penjualan	28-04-2020	Wahyu	Item-04	Kopi Instant	2	5200
+243	Penjualan	28-04-2020	Wahyu	Item-06	Sabun Mandi Cair 100 ml	4	10500
+244	Penjualan	28-04-2020	Yudhi	Item-04	Kopi Instant	2	5200
+244	Penjualan	28-04-2020	Yudhi	Item-06	Sabun Mandi Cair 100 ml	3	10500
+245	Penjualan	28-04-2020	Yuli	Item-01	Batere AA	3	12000
+245	Penjualan	28-04-2020	Yuli	Item-02	Bawang Putih 200 gram	3	15000
+245	Penjualan	28-04-2020	Yuli	Item-03	Gula Pasir Putih 1 kg	1	12500
+245	Penjualan	28-04-2020	Yuli	Item-04	Kopi Instant	1	5200
+245	Penjualan	28-04-2020	Yuli	Item-06	Sabun Mandi Cair 100 ml	1	10500
+246	Stok Masuk	29-04-2020	-	Item-02	Bawang Putih 200 gram	45	-
+246	Stok Masuk	29-04-2020	-	Item-03	Gula Pasir Putih 1 kg	36	-
+246	Stok Masuk	29-04-2020	-	Item-05	Mi Goreng Instant	26	-
+246	Stok Masuk	29-04-2020	-	Item-07	Sabut Cuci Piring	7	-
+247	Penjualan	29-04-2020	Andi	Item-01	Batere AA	2	12000
+247	Penjualan	29-04-2020	Andi	Item-02	Bawang Putih 200 gram	2	15000
+247	Penjualan	29-04-2020	Andi	Item-03	Gula Pasir Putih 1 kg	3	12500
+247	Penjualan	29-04-2020	Andi	Item-04	Kopi Instant	1	5200
+247	Penjualan	29-04-2020	Andi	Item-05	Mi Goreng Instant	2	2600
+248	Penjualan	29-04-2020	Ayu	Item-05	Mi Goreng Instant	4	2600
+249	Penjualan	29-04-2020	Bayu	Item-03	Gula Pasir Putih 1 kg	1	12500
+249	Penjualan	29-04-2020	Bayu	Item-04	Kopi Instant	2	5200
+249	Penjualan	29-04-2020	Bayu	Item-05	Mi Goreng Instant	1	2600
+250	Penjualan	29-04-2020	Erlangga	Item-03	Gula Pasir Putih 1 kg	2	12500
+250	Penjualan	29-04-2020	Erlangga	Item-04	Kopi Instant	3	5200
+250	Penjualan	29-04-2020	Erlangga	Item-06	Sabun Mandi Cair 100 ml	1	10500
+251	Penjualan	29-04-2020	Fajri	Item-04	Kopi Instant	3	5200
+251	Penjualan	29-04-2020	Fajri	Item-05	Mi Goreng Instant	2	2600
+252	Penjualan	29-04-2020	Farah	Item-04	Kopi Instant	3	5200
+252	Penjualan	29-04-2020	Farah	Item-05	Mi Goreng Instant	1	2600
+253	Penjualan	29-04-2020	Indah	Item-03	Gula Pasir Putih 1 kg	3	12500
+253	Penjualan	29-04-2020	Indah	Item-06	Sabun Mandi Cair 100 ml	3	10500
+253	Penjualan	29-04-2020	Indah	Item-07	Sabut Cuci Piring	2	7500
+254	Penjualan	29-04-2020	Iqbal	Item-02	Bawang Putih 200 gram	2	15000
+254	Penjualan	29-04-2020	Iqbal	Item-03	Gula Pasir Putih 1 kg	3	12500
+254	Penjualan	29-04-2020	Iqbal	Item-04	Kopi Instant	2	5200
+254	Penjualan	29-04-2020	Iqbal	Item-05	Mi Goreng Instant	2	2600
+255	Penjualan	29-04-2020	Putri	Item-06	Sabun Mandi Cair 100 ml	1	10500
+255	Penjualan	29-04-2020	Putri	Item-07	Sabut Cuci Piring	1	7500
+256	Penjualan	29-04-2020	Tasya	Item-03	Gula Pasir Putih 1 kg	1	12500
+256	Penjualan	29-04-2020	Tasya	Item-04	Kopi Instant	2	5200
+256	Penjualan	29-04-2020	Tasya	Item-05	Mi Goreng Instant	1	2600
+257	Penjualan	29-04-2020	Tika	Item-03	Gula Pasir Putih 1 kg	4	12500
+257	Penjualan	29-04-2020	Tika	Item-04	Kopi Instant	3	5200
+257	Penjualan	29-04-2020	Tika	Item-06	Sabun Mandi Cair 100 ml	4	10500
+258	Penjualan	29-04-2020	Tri	Item-04	Kopi Instant	4	5200
+258	Penjualan	29-04-2020	Tri	Item-05	Mi Goreng Instant	3	2600
+259	Penjualan	29-04-2020	Ujang	Item-01	Batere AA	1	12000
+259	Penjualan	29-04-2020	Ujang	Item-02	Bawang Putih 200 gram	3	15000
+259	Penjualan	29-04-2020	Ujang	Item-03	Gula Pasir Putih 1 kg	1	12500
+259	Penjualan	29-04-2020	Ujang	Item-04	Kopi Instant	3	5200
+259	Penjualan	29-04-2020	Ujang	Item-05	Mi Goreng Instant	1	2600
+260	Penjualan	29-04-2020	Wardi	Item-05	Mi Goreng Instant	2	2600
+261	Penjualan	29-04-2020	Wulan	Item-02	Bawang Putih 200 gram	2	15000
+261	Penjualan	29-04-2020	Wulan	Item-03	Gula Pasir Putih 1 kg	1	12500
+261	Penjualan	29-04-2020	Wulan	Item-06	Sabun Mandi Cair 100 ml	1	10500
+261	Penjualan	29-04-2020	Wulan	Item-07	Sabut Cuci Piring	1	7500
+262	Penjualan	29-04-2020	Yansen	Item-05	Mi Goreng Instant	3	2600
+263	Penjualan	29-04-2020	Yati	Item-05	Mi Goreng Instant	4	2600
+264	Stok Masuk	30-04-2020	-	Item-09	Roti Tawar	16	-
+264	Stok Masuk	30-04-2020	-	Item-10	Biskuit Waver Kaleng	61	-
+264	Stok Masuk	30-04-2020	-	Item-13	Pisau Cukur	6	-
+264	Stok Masuk	30-04-2020	-	Item-18	Telur Ayam Negeri	72	-
+264	Stok Masuk	30-04-2020	-	Item-20	Gunting Kuku	7	-
+265	Penjualan	30-04-2020	Agus	Item-01	Batere AA	2	12000
+265	Penjualan	30-04-2020	Agus	Item-02	Bawang Putih 200 gram	4	15000
+265	Penjualan	30-04-2020	Agus	Item-03	Gula Pasir Putih 1 kg	3	12500
+265	Penjualan	30-04-2020	Agus	Item-06	Sabun Mandi Cair 100 ml	4	10500
+265	Penjualan	30-04-2020	Agus	Item-07	Sabut Cuci Piring	3	7500
+266	Penjualan	30-04-2020	Hadi	Item-01	Batere AA	3	12000
+266	Penjualan	30-04-2020	Hadi	Item-02	Bawang Putih 200 gram	3	15000
+266	Penjualan	30-04-2020	Hadi	Item-03	Gula Pasir Putih 1 kg	2	12500
+266	Penjualan	30-04-2020	Hadi	Item-06	Sabun Mandi Cair 100 ml	4	10500
+266	Penjualan	30-04-2020	Hadi	Item-08	Vitamin C	1	2000
+267	Penjualan	30-04-2020	Hengky	Item-01	Batere AA	1	12000
+267	Penjualan	30-04-2020	Hengky	Item-02	Bawang Putih 200 gram	2	15000
+267	Penjualan	30-04-2020	Hengky	Item-03	Gula Pasir Putih 1 kg	1	12500
+267	Penjualan	30-04-2020	Hengky	Item-06	Sabun Mandi Cair 100 ml	3	10500
+267	Penjualan	30-04-2020	Hengky	Item-08	Vitamin C	2	2000
+268	Penjualan	30-04-2020	Kardi	Item-06	Sabun Mandi Cair 100 ml	2	10500
+268	Penjualan	30-04-2020	Kardi	Item-08	Vitamin C	2	2000
+269	Penjualan	30-04-2020	Lestari	Item-03	Gula Pasir Putih 1 kg	2	12500
+269	Penjualan	30-04-2020	Lestari	Item-06	Sabun Mandi Cair 100 ml	2	10500
+269	Penjualan	30-04-2020	Lestari	Item-08	Vitamin C	1	2000
+270	Penjualan	30-04-2020	Mahmud	Item-03	Gula Pasir Putih 1 kg	3	12500
+270	Penjualan	30-04-2020	Mahmud	Item-06	Sabun Mandi Cair 100 ml	2	10500
+270	Penjualan	30-04-2020	Mahmud	Item-08	Vitamin C	4	2000
+271	Penjualan	30-04-2020	Mita, Mira	Item-08	Vitamin C	1	2000
+272	Penjualan	30-04-2020	Murni	Item-03	Gula Pasir Putih 1 kg	2	12500
+272	Penjualan	30-04-2020	Murni	Item-06	Sabun Mandi Cair 100 ml	2	10500
+272	Penjualan	30-04-2020	Murni	Item-08	Vitamin C	2	2000
+273	Penjualan	30-04-2020	Nita	Item-01	Batere AA	2	12000
+273	Penjualan	30-04-2020	Nita	Item-02	Bawang Putih 200 gram	3	15000
+273	Penjualan	30-04-2020	Nita	Item-03	Gula Pasir Putih 1 kg	3	12500
+273	Penjualan	30-04-2020	Nita	Item-06	Sabun Mandi Cair 100 ml	3	10500
+273	Penjualan	30-04-2020	Nita	Item-08	Vitamin C	2	2000
+274	Penjualan	30-04-2020	Rahmad	Item-08	Vitamin C	1	2000
+274	Penjualan	30-04-2020	Rahmad	Item-09	Roti Tawar	3	12500
+275	Penjualan	30-04-2020	Siti	Item-01	Batere AA	4	12000
+275	Penjualan	30-04-2020	Siti	Item-02	Bawang Putih 200 gram	3	15000
+275	Penjualan	30-04-2020	Siti	Item-03	Gula Pasir Putih 1 kg	2	12500
+275	Penjualan	30-04-2020	Siti	Item-08	Vitamin C	2	2000
+275	Penjualan	30-04-2020	Siti	Item-09	Roti Tawar	1	12500
+276	Stok Masuk	01-05-2020	-	Item-02	Bawang Putih 200 gram	54	-
+276	Stok Masuk	01-05-2020	-	Item-09	Roti Tawar	14	-
+276	Stok Masuk	01-05-2020	-	Item-17	Obat Batuk	44	-
+276	Stok Masuk	01-05-2020	-	Item-19	Obat Diare	32	-
+277	Penjualan	01-05-2020	Ardi	Item-09	Roti Tawar	4	12500
+277	Penjualan	01-05-2020	Ardi	Item-10	Biskuit Waver Kaleng	1	24000
+278	Penjualan	01-05-2020	Bagus	Item-03	Gula Pasir Putih 1 kg	4	12500
+278	Penjualan	01-05-2020	Bagus	Item-08	Vitamin C	1	2000
+278	Penjualan	01-05-2020	Bagus	Item-09	Roti Tawar	1	12500
+279	Penjualan	01-05-2020	Farah	Item-02	Bawang Putih 200 gram	2	15000
+279	Penjualan	01-05-2020	Farah	Item-09	Roti Tawar	4	12500
+279	Penjualan	01-05-2020	Farah	Item-10	Biskuit Waver Kaleng	3	24000
+279	Penjualan	01-05-2020	Farah	Item-11	Sabun Cuci Piring	4	14000
+280	Penjualan	01-05-2020	Feri	Item-11	Sabun Cuci Piring	3	14000
+281	Penjualan	01-05-2020	Komang	Item-08	Vitamin C	1	2000
+281	Penjualan	01-05-2020	Komang	Item-09	Roti Tawar	1	12500
+282	Penjualan	01-05-2020	Marta	Item-02	Bawang Putih 200 gram	2	15000
+282	Penjualan	01-05-2020	Marta	Item-09	Roti Tawar	4	12500
+282	Penjualan	01-05-2020	Marta	Item-10	Biskuit Waver Kaleng	4	24000
+282	Penjualan	01-05-2020	Marta	Item-11	Sabun Cuci Piring	4	14000
+283	Penjualan	01-05-2020	Nur	Item-10	Biskuit Waver Kaleng	4	24000
+283	Penjualan	01-05-2020	Nur	Item-11	Sabun Cuci Piring	1	14000
+284	Penjualan	01-05-2020	Randi	Item-01	Batere AA	3	12000
+284	Penjualan	01-05-2020	Randi	Item-02	Bawang Putih 200 gram	3	15000
+284	Penjualan	01-05-2020	Randi	Item-03	Gula Pasir Putih 1 kg	4	12500
+284	Penjualan	01-05-2020	Randi	Item-08	Vitamin C	3	2000
+284	Penjualan	01-05-2020	Randi	Item-09	Roti Tawar	2	12500
+285	Penjualan	01-05-2020	Sri	Item-03	Gula Pasir Putih 1 kg	1	12500
+285	Penjualan	01-05-2020	Sri	Item-09	Roti Tawar	1	12500
+285	Penjualan	01-05-2020	Sri	Item-10	Biskuit Waver Kaleng	4	24000
+286	Penjualan	01-05-2020	Zahra	Item-01	Batere AA	3	12000
+286	Penjualan	01-05-2020	Zahra	Item-02	Bawang Putih 200 gram	3	15000
+286	Penjualan	01-05-2020	Zahra	Item-03	Gula Pasir Putih 1 kg	1	12500
+286	Penjualan	01-05-2020	Zahra	Item-09	Roti Tawar	3	12500
+286	Penjualan	01-05-2020	Zahra	Item-10	Biskuit Waver Kaleng	3	24000
+287	Stok Masuk	02-05-2020	-	Item-06	Sabun Mandi Cair 100 ml	65	-
+287	Stok Masuk	02-05-2020	-	Item-12	Beras Pulen 5 kg	24	-
+288	Penjualan	02-05-2020	Anggun	Item-02	Bawang Putih 200 gram	1	15000
+288	Penjualan	02-05-2020	Anggun	Item-06	Sabun Mandi Cair 100 ml	4	10500
+288	Penjualan	02-05-2020	Anggun	Item-09	Roti Tawar	1	12500
+288	Penjualan	02-05-2020	Anggun	Item-10	Biskuit Waver Kaleng	1	24000
+289	Penjualan	02-05-2020	Bella	Item-09	Roti Tawar	3	12500
+289	Penjualan	02-05-2020	Bella	Item-10	Biskuit Waver Kaleng	4	24000
+290	Penjualan	02-05-2020	Jaya	Item-02	Bawang Putih 200 gram	2	15000
+290	Penjualan	02-05-2020	Jaya	Item-06	Sabun Mandi Cair 100 ml	3	10500
+290	Penjualan	02-05-2020	Jaya	Item-09	Roti Tawar	3	12500
+290	Penjualan	02-05-2020	Jaya	Item-10	Biskuit Waver Kaleng	4	24000
+291	Penjualan	02-05-2020	Krisda	Item-09	Roti Tawar	1	12500
+291	Penjualan	02-05-2020	Krisda	Item-10	Biskuit Waver Kaleng	2	24000
+292	Penjualan	02-05-2020	Kurnia	Item-02	Bawang Putih 200 gram	3	15000
+292	Penjualan	02-05-2020	Kurnia	Item-06	Sabun Mandi Cair 100 ml	4	10500
+292	Penjualan	02-05-2020	Kurnia	Item-09	Roti Tawar	4	12500
+292	Penjualan	02-05-2020	Kurnia	Item-10	Biskuit Waver Kaleng	2	24000
+293	Penjualan	02-05-2020	Rahma	Item-06	Sabun Mandi Cair 100 ml	2	10500
+293	Penjualan	02-05-2020	Rahma	Item-09	Roti Tawar	1	12500
+293	Penjualan	02-05-2020	Rahma	Item-10	Biskuit Waver Kaleng	2	24000
+294	Penjualan	02-05-2020	Rasyid	Item-09	Roti Tawar	4	12500
+294	Penjualan	02-05-2020	Rasyid	Item-10	Biskuit Waver Kaleng	1	24000
+295	Penjualan	02-05-2020	Siti	Item-02	Bawang Putih 200 gram	4	15000
+295	Penjualan	02-05-2020	Siti	Item-06	Sabun Mandi Cair 100 ml	2	10500
+295	Penjualan	02-05-2020	Siti	Item-09	Roti Tawar	4	12500
+295	Penjualan	02-05-2020	Siti	Item-10	Biskuit Waver Kaleng	1	24000
+296	Penjualan	02-05-2020	Yati	Item-09	Roti Tawar	4	12500
+296	Penjualan	02-05-2020	Yati	Item-10	Biskuit Waver Kaleng	4	24000
+297	Penjualan	02-05-2020	Yudhi	Item-09	Roti Tawar	2	12500
+297	Penjualan	02-05-2020	Yudhi	Item-10	Biskuit Waver Kaleng	3	24000
+298	Stok Masuk	03-05-2020	-	Item-02	Bawang Putih 200 gram	50	-
+298	Stok Masuk	03-05-2020	-	Item-04	Kopi Instant	66	-
+298	Stok Masuk	03-05-2020	-	Item-09	Roti Tawar	10	-
+298	Stok Masuk	03-05-2020	-	Item-11	Sabun Cuci Piring	18	-
+298	Stok Masuk	03-05-2020	-	Item-16	Balsem Putih 20 gram	7	-
+298	Stok Masuk	03-05-2020	-	Item-18	Telur Ayam Negeri	56	-
+299	Penjualan	03-05-2020	Ayu	Item-04	Kopi Instant	4	5200
+299	Penjualan	03-05-2020	Ayu	Item-06	Sabun Mandi Cair 100 ml	1	10500
+299	Penjualan	03-05-2020	Ayu	Item-09	Roti Tawar	1	12500
+300	Penjualan	03-05-2020	Diki	Item-04	Kopi Instant	2	5200
+300	Penjualan	03-05-2020	Diki	Item-06	Sabun Mandi Cair 100 ml	3	10500
+300	Penjualan	03-05-2020	Diki	Item-09	Roti Tawar	2	12500
+301	Penjualan	03-05-2020	Marta	Item-06	Sabun Mandi Cair 100 ml	2	10500
+301	Penjualan	03-05-2020	Marta	Item-09	Roti Tawar	4	12500
+302	Penjualan	03-05-2020	Mita, Mira	Item-01	Batere AA	3	12000
+302	Penjualan	03-05-2020	Mita, Mira	Item-02	Bawang Putih 200 gram	3	15000
+302	Penjualan	03-05-2020	Mita, Mira	Item-04	Kopi Instant	3	5200
+302	Penjualan	03-05-2020	Mita, Mira	Item-06	Sabun Mandi Cair 100 ml	2	10500
+302	Penjualan	03-05-2020	Mita, Mira	Item-09	Roti Tawar	1	12500
+303	Penjualan	03-05-2020	Putra	Item-04	Kopi Instant	3	5200
+303	Penjualan	03-05-2020	Putra	Item-06	Sabun Mandi Cair 100 ml	4	10500
+303	Penjualan	03-05-2020	Putra	Item-09	Roti Tawar	1	12500
+304	Penjualan	03-05-2020	Rita	Item-04	Kopi Instant	2	5200
+304	Penjualan	03-05-2020	Rita	Item-06	Sabun Mandi Cair 100 ml	1	10500
+304	Penjualan	03-05-2020	Rita	Item-09	Roti Tawar	4	12500
+305	Penjualan	03-05-2020	Ujang	Item-01	Batere AA	2	12000
+305	Penjualan	03-05-2020	Ujang	Item-02	Bawang Putih 200 gram	4	15000
+305	Penjualan	03-05-2020	Ujang	Item-04	Kopi Instant	2	5200
+305	Penjualan	03-05-2020	Ujang	Item-06	Sabun Mandi Cair 100 ml	1	10500
+305	Penjualan	03-05-2020	Ujang	Item-09	Roti Tawar	2	12500
+306	Penjualan	03-05-2020	Wahyu	Item-02	Bawang Putih 200 gram	4	15000
+306	Penjualan	03-05-2020	Wahyu	Item-04	Kopi Instant	4	5200
+306	Penjualan	03-05-2020	Wahyu	Item-06	Sabun Mandi Cair 100 ml	4	10500
+306	Penjualan	03-05-2020	Wahyu	Item-09	Roti Tawar	3	12500
+307	Penjualan	03-05-2020	Wulan	Item-04	Kopi Instant	1	5200
+307	Penjualan	03-05-2020	Wulan	Item-06	Sabun Mandi Cair 100 ml	2	10500
+307	Penjualan	03-05-2020	Wulan	Item-09	Roti Tawar	1	12500
+308	Penjualan	03-05-2020	Zaki	Item-04	Kopi Instant	4	5200
+308	Penjualan	03-05-2020	Zaki	Item-06	Sabun Mandi Cair 100 ml	3	10500
+308	Penjualan	03-05-2020	Zaki	Item-09	Roti Tawar	1	12500
+309	Stok Masuk	04-05-2020	-	Item-03	Gula Pasir Putih 1 kg	40	-
+309	Stok Masuk	04-05-2020	-	Item-05	Mi Goreng Instant	32	-
+309	Stok Masuk	04-05-2020	-	Item-08	Vitamin C	26	-
+310	Penjualan	04-05-2020	Komang	Item-02	Bawang Putih 200 gram	2	15000
+310	Penjualan	04-05-2020	Komang	Item-03	Gula Pasir Putih 1 kg	3	12500
+310	Penjualan	04-05-2020	Komang	Item-04	Kopi Instant	3	5200
+310	Penjualan	04-05-2020	Komang	Item-05	Mi Goreng Instant	2	2600
+311	Penjualan	04-05-2020	Putri	Item-02	Bawang Putih 200 gram	1	15000
+311	Penjualan	04-05-2020	Putri	Item-03	Gula Pasir Putih 1 kg	1	12500
+311	Penjualan	04-05-2020	Putri	Item-04	Kopi Instant	2	5200
+311	Penjualan	04-05-2020	Putri	Item-05	Mi Goreng Instant	4	2600
+312	Penjualan	04-05-2020	Tia	Item-02	Bawang Putih 200 gram	4	15000
+312	Penjualan	04-05-2020	Tia	Item-03	Gula Pasir Putih 1 kg	1	12500
+312	Penjualan	04-05-2020	Tia	Item-04	Kopi Instant	2	5200
+312	Penjualan	04-05-2020	Tia	Item-05	Mi Goreng Instant	2	2600
+313	Penjualan	04-05-2020	Tri	Item-03	Gula Pasir Putih 1 kg	3	12500
+313	Penjualan	04-05-2020	Tri	Item-04	Kopi Instant	4	5200
+313	Penjualan	04-05-2020	Tri	Item-05	Mi Goreng Instant	3	2600
+314	Stok Masuk	05-05-2020	-	Item-01	Batere AA	63	-
+314	Stok Masuk	05-05-2020	-	Item-02	Bawang Putih 200 gram	52	-
+314	Stok Masuk	05-05-2020	-	Item-09	Roti Tawar	17	-
+314	Stok Masuk	05-05-2020	-	Item-14	Teh Celup Melati	34	-
+314	Stok Masuk	05-05-2020	-	Item-15	Ketan Hitam 500 gram	26	-
+314	Stok Masuk	05-05-2020	-	Item-18	Telur Ayam Negeri	71	-
+315	Penjualan	05-05-2020	Agus	Item-02	Bawang Putih 200 gram	4	15000
+315	Penjualan	05-05-2020	Agus	Item-03	Gula Pasir Putih 1 kg	3	12500
+315	Penjualan	05-05-2020	Agus	Item-04	Kopi Instant	1	5200
+315	Penjualan	05-05-2020	Agus	Item-05	Mi Goreng Instant	4	2600
+316	Penjualan	05-05-2020	Bayu	Item-05	Mi Goreng Instant	1	2600
+317	Penjualan	05-05-2020	Fajri	Item-01	Batere AA	1	12000
+317	Penjualan	05-05-2020	Fajri	Item-02	Bawang Putih 200 gram	1	15000
+317	Penjualan	05-05-2020	Fajri	Item-03	Gula Pasir Putih 1 kg	3	12500
+317	Penjualan	05-05-2020	Fajri	Item-04	Kopi Instant	1	5200
+317	Penjualan	05-05-2020	Fajri	Item-05	Mi Goreng Instant	4	2600
+318	Penjualan	05-05-2020	Farah	Item-04	Kopi Instant	4	5200
+318	Penjualan	05-05-2020	Farah	Item-05	Mi Goreng Instant	1	2600
+319	Penjualan	05-05-2020	Hasan	Item-02	Bawang Putih 200 gram	2	15000
+319	Penjualan	05-05-2020	Hasan	Item-03	Gula Pasir Putih 1 kg	3	12500
+319	Penjualan	05-05-2020	Hasan	Item-04	Kopi Instant	3	5200
+319	Penjualan	05-05-2020	Hasan	Item-05	Mi Goreng Instant	2	2600
+320	Penjualan	05-05-2020	Indah	Item-01	Batere AA	2	12000
+320	Penjualan	05-05-2020	Indah	Item-02	Bawang Putih 200 gram	4	15000
+320	Penjualan	05-05-2020	Indah	Item-03	Gula Pasir Putih 1 kg	2	12500
+320	Penjualan	05-05-2020	Indah	Item-04	Kopi Instant	1	5200
+320	Penjualan	05-05-2020	Indah	Item-05	Mi Goreng Instant	2	2600
+321	Penjualan	05-05-2020	Nita	Item-04	Kopi Instant	2	5200
+321	Penjualan	05-05-2020	Nita	Item-05	Mi Goreng Instant	2	2600
+322	Penjualan	05-05-2020	Rahmad	Item-03	Gula Pasir Putih 1 kg	3	12500
+322	Penjualan	05-05-2020	Rahmad	Item-04	Kopi Instant	3	5200
+322	Penjualan	05-05-2020	Rahmad	Item-05	Mi Goreng Instant	1	2600
+323	Penjualan	05-05-2020	Zahra	Item-01	Batere AA	3	12000
+323	Penjualan	05-05-2020	Zahra	Item-02	Bawang Putih 200 gram	4	15000
+323	Penjualan	05-05-2020	Zahra	Item-03	Gula Pasir Putih 1 kg	4	12500
+323	Penjualan	05-05-2020	Zahra	Item-04	Kopi Instant	2	5200
+323	Penjualan	05-05-2020	Zahra	Item-05	Mi Goreng Instant	1	2600
+324	Stok Masuk	06-05-2020	-	Item-03	Gula Pasir Putih 1 kg	39	-
+324	Stok Masuk	06-05-2020	-	Item-05	Mi Goreng Instant	55	-
+324	Stok Masuk	06-05-2020	-	Item-09	Roti Tawar	12	-
+325	Penjualan	06-05-2020	Bagus	Item-04	Kopi Instant	1	5200
+325	Penjualan	06-05-2020	Bagus	Item-05	Mi Goreng Instant	4	2600
+326	Penjualan	06-05-2020	Hengky	Item-01	Batere AA	1	12000
+326	Penjualan	06-05-2020	Hengky	Item-02	Bawang Putih 200 gram	3	15000
+326	Penjualan	06-05-2020	Hengky	Item-03	Gula Pasir Putih 1 kg	3	12500
+326	Penjualan	06-05-2020	Hengky	Item-04	Kopi Instant	4	5200
+326	Penjualan	06-05-2020	Hengky	Item-05	Mi Goreng Instant	1	2600
+327	Penjualan	06-05-2020	Iqbal	Item-01	Batere AA	2	12000
+327	Penjualan	06-05-2020	Iqbal	Item-02	Bawang Putih 200 gram	4	15000
+327	Penjualan	06-05-2020	Iqbal	Item-03	Gula Pasir Putih 1 kg	2	12500
+327	Penjualan	06-05-2020	Iqbal	Item-04	Kopi Instant	1	5200
+327	Penjualan	06-05-2020	Iqbal	Item-05	Mi Goreng Instant	2	2600
+328	Penjualan	06-05-2020	Krisda	Item-02	Bawang Putih 200 gram	2	15000
+328	Penjualan	06-05-2020	Krisda	Item-03	Gula Pasir Putih 1 kg	2	12500
+328	Penjualan	06-05-2020	Krisda	Item-04	Kopi Instant	2	5200
+328	Penjualan	06-05-2020	Krisda	Item-05	Mi Goreng Instant	1	2600
+329	Penjualan	06-05-2020	Mahmud	Item-01	Batere AA	4	12000
+329	Penjualan	06-05-2020	Mahmud	Item-02	Bawang Putih 200 gram	2	15000
+329	Penjualan	06-05-2020	Mahmud	Item-03	Gula Pasir Putih 1 kg	4	12500
+329	Penjualan	06-05-2020	Mahmud	Item-04	Kopi Instant	1	5200
+329	Penjualan	06-05-2020	Mahmud	Item-05	Mi Goreng Instant	1	2600
+330	Penjualan	06-05-2020	Sri	Item-02	Bawang Putih 200 gram	3	15000
+330	Penjualan	06-05-2020	Sri	Item-03	Gula Pasir Putih 1 kg	3	12500
+330	Penjualan	06-05-2020	Sri	Item-04	Kopi Instant	1	5200
+330	Penjualan	06-05-2020	Sri	Item-05	Mi Goreng Instant	3	2600
+331	Penjualan	06-05-2020	Tasya	Item-03	Gula Pasir Putih 1 kg	3	12500
+331	Penjualan	06-05-2020	Tasya	Item-04	Kopi Instant	2	5200
+331	Penjualan	06-05-2020	Tasya	Item-05	Mi Goreng Instant	3	2600
+332	Penjualan	06-05-2020	Zaki	Item-05	Mi Goreng Instant	2	2600
+333	Stok Masuk	07-05-2020	-	Item-10	Biskuit Waver Kaleng	56	-
+333	Stok Masuk	07-05-2020	-	Item-13	Pisau Cukur	6	-
+333	Stok Masuk	07-05-2020	-	Item-18	Telur Ayam Negeri	74	-
+333	Stok Masuk	07-05-2020	-	Item-19	Obat Diare	20	-
+334	Penjualan	07-05-2020	Agung	Item-02	Bawang Putih 200 gram	4	15000
+334	Penjualan	07-05-2020	Agung	Item-03	Gula Pasir Putih 1 kg	1	12500
+334	Penjualan	07-05-2020	Agung	Item-05	Mi Goreng Instant	1	2600
+334	Penjualan	07-05-2020	Agung	Item-06	Sabun Mandi Cair 100 ml	2	10500
+335	Penjualan	07-05-2020	Andi	Item-02	Bawang Putih 200 gram	1	15000
+335	Penjualan	07-05-2020	Andi	Item-03	Gula Pasir Putih 1 kg	2	12500
+335	Penjualan	07-05-2020	Andi	Item-05	Mi Goreng Instant	4	2600
+335	Penjualan	07-05-2020	Andi	Item-08	Vitamin C	4	2000
+336	Penjualan	07-05-2020	Anggun	Item-06	Sabun Mandi Cair 100 ml	3	10500
+337	Penjualan	07-05-2020	Asep	Item-03	Gula Pasir Putih 1 kg	1	12500
+337	Penjualan	07-05-2020	Asep	Item-05	Mi Goreng Instant	1	2600
+337	Penjualan	07-05-2020	Asep	Item-06	Sabun Mandi Cair 100 ml	1	10500
+338	Penjualan	07-05-2020	Galang	Item-02	Bawang Putih 200 gram	3	15000
+338	Penjualan	07-05-2020	Galang	Item-03	Gula Pasir Putih 1 kg	2	12500
+338	Penjualan	07-05-2020	Galang	Item-05	Mi Goreng Instant	4	2600
+338	Penjualan	07-05-2020	Galang	Item-06	Sabun Mandi Cair 100 ml	4	10500
+339	Penjualan	07-05-2020	Hadi	Item-01	Batere AA	2	12000
+339	Penjualan	07-05-2020	Hadi	Item-02	Bawang Putih 200 gram	2	15000
+339	Penjualan	07-05-2020	Hadi	Item-03	Gula Pasir Putih 1 kg	3	12500
+339	Penjualan	07-05-2020	Hadi	Item-05	Mi Goreng Instant	4	2600
+339	Penjualan	07-05-2020	Hadi	Item-06	Sabun Mandi Cair 100 ml	3	10500
+340	Penjualan	07-05-2020	Kardi	Item-03	Gula Pasir Putih 1 kg	4	12500
+340	Penjualan	07-05-2020	Kardi	Item-05	Mi Goreng Instant	2	2600
+340	Penjualan	07-05-2020	Kardi	Item-06	Sabun Mandi Cair 100 ml	2	10500
+341	Penjualan	07-05-2020	Murni	Item-01	Batere AA	4	12000
+341	Penjualan	07-05-2020	Murni	Item-02	Bawang Putih 200 gram	2	15000
+341	Penjualan	07-05-2020	Murni	Item-03	Gula Pasir Putih 1 kg	2	12500
+341	Penjualan	07-05-2020	Murni	Item-05	Mi Goreng Instant	4	2600
+341	Penjualan	07-05-2020	Murni	Item-06	Sabun Mandi Cair 100 ml	1	10500
+342	Penjualan	07-05-2020	Tika	Item-06	Sabun Mandi Cair 100 ml	1	10500
+343	Penjualan	07-05-2020	Ujang	Item-01	Batere AA	3	12000
+343	Penjualan	07-05-2020	Ujang	Item-02	Bawang Putih 200 gram	2	15000
+343	Penjualan	07-05-2020	Ujang	Item-03	Gula Pasir Putih 1 kg	2	12500
+343	Penjualan	07-05-2020	Ujang	Item-04	Kopi Instant	1	5200
+343	Penjualan	07-05-2020	Ujang	Item-05	Mi Goreng Instant	1	2600
+344	Penjualan	07-05-2020	Wulan	Item-01	Batere AA	1	12000
+344	Penjualan	07-05-2020	Wulan	Item-02	Bawang Putih 200 gram	2	15000
+344	Penjualan	07-05-2020	Wulan	Item-03	Gula Pasir Putih 1 kg	3	12500
+344	Penjualan	07-05-2020	Wulan	Item-05	Mi Goreng Instant	3	2600
+344	Penjualan	07-05-2020	Wulan	Item-06	Sabun Mandi Cair 100 ml	4	10500
+345	Penjualan	07-05-2020	Yudhi	Item-03	Gula Pasir Putih 1 kg	4	12500
+345	Penjualan	07-05-2020	Yudhi	Item-05	Mi Goreng Instant	2	2600
+345	Penjualan	07-05-2020	Yudhi	Item-06	Sabun Mandi Cair 100 ml	2	10500
+346	Penjualan	07-05-2020	Yuli	Item-01	Batere AA	4	12000
+346	Penjualan	07-05-2020	Yuli	Item-02	Bawang Putih 200 gram	4	15000
+346	Penjualan	07-05-2020	Yuli	Item-03	Gula Pasir Putih 1 kg	1	12500
+346	Penjualan	07-05-2020	Yuli	Item-05	Mi Goreng Instant	2	2600
+346	Penjualan	07-05-2020	Yuli	Item-06	Sabun Mandi Cair 100 ml	4	10500
+347	Stok Masuk	08-05-2020	-	Item-02	Bawang Putih 200 gram	42	-
+347	Stok Masuk	08-05-2020	-	Item-09	Roti Tawar	20	-
+348	Penjualan	08-05-2020	Diki	Item-05	Mi Goreng Instant	1	2600
+348	Penjualan	08-05-2020	Diki	Item-08	Vitamin C	2	2000
+349	Penjualan	08-05-2020	Indah	Item-08	Vitamin C	1	2000
+350	Penjualan	08-05-2020	Marta	Item-05	Mi Goreng Instant	4	2600
+350	Penjualan	08-05-2020	Marta	Item-08	Vitamin C	4	2000
+351	Penjualan	08-05-2020	Mita, Mira	Item-08	Vitamin C	3	2000
+352	Penjualan	08-05-2020	Putri	Item-08	Vitamin C	1	2000
+353	Penjualan	08-05-2020	Rahma	Item-05	Mi Goreng Instant	1	2600
+353	Penjualan	08-05-2020	Rahma	Item-08	Vitamin C	4	2000
+354	Penjualan	08-05-2020	Rasyid	Item-03	Gula Pasir Putih 1 kg	1	12500
+354	Penjualan	08-05-2020	Rasyid	Item-05	Mi Goreng Instant	2	2600
+354	Penjualan	08-05-2020	Rasyid	Item-08	Vitamin C	3	2000
+355	Penjualan	08-05-2020	Siti	Item-08	Vitamin C	1	2000
+356	Stok Masuk	09-05-2020	-	Item-05	Mi Goreng Instant	29	-
+356	Stok Masuk	09-05-2020	-	Item-06	Sabun Mandi Cair 100 ml	80	-
+356	Stok Masuk	09-05-2020	-	Item-17	Obat Batuk	29	-
+357	Penjualan	09-05-2020	Iqbal	Item-02	Bawang Putih 200 gram	4	15000
+357	Penjualan	09-05-2020	Iqbal	Item-03	Gula Pasir Putih 1 kg	2	12500
+357	Penjualan	09-05-2020	Iqbal	Item-05	Mi Goreng Instant	1	2600
+357	Penjualan	09-05-2020	Iqbal	Item-06	Sabun Mandi Cair 100 ml	4	10500
+358	Penjualan	09-05-2020	Komang	Item-02	Bawang Putih 200 gram	2	15000
+358	Penjualan	09-05-2020	Komang	Item-03	Gula Pasir Putih 1 kg	1	12500
+358	Penjualan	09-05-2020	Komang	Item-05	Mi Goreng Instant	2	2600
+358	Penjualan	09-05-2020	Komang	Item-06	Sabun Mandi Cair 100 ml	1	10500
+359	Penjualan	09-05-2020	Nur	Item-01	Batere AA	4	12000
+359	Penjualan	09-05-2020	Nur	Item-02	Bawang Putih 200 gram	4	15000
+359	Penjualan	09-05-2020	Nur	Item-03	Gula Pasir Putih 1 kg	1	12500
+359	Penjualan	09-05-2020	Nur	Item-05	Mi Goreng Instant	1	2600
+359	Penjualan	09-05-2020	Nur	Item-06	Sabun Mandi Cair 100 ml	1	10500
+360	Penjualan	09-05-2020	Tasya	Item-02	Bawang Putih 200 gram	4	15000
+360	Penjualan	09-05-2020	Tasya	Item-03	Gula Pasir Putih 1 kg	1	12500
+360	Penjualan	09-05-2020	Tasya	Item-05	Mi Goreng Instant	4	2600
+360	Penjualan	09-05-2020	Tasya	Item-06	Sabun Mandi Cair 100 ml	1	10500
+361	Penjualan	09-05-2020	Tri	Item-06	Sabun Mandi Cair 100 ml	4	10500
+362	Penjualan	09-05-2020	Zahra	Item-05	Mi Goreng Instant	2	2600
+362	Penjualan	09-05-2020	Zahra	Item-06	Sabun Mandi Cair 100 ml	4	10500
+363	Stok Masuk	10-05-2020	-	Item-03	Gula Pasir Putih 1 kg	43	-
+363	Stok Masuk	10-05-2020	-	Item-15	Ketan Hitam 500 gram	24	-
+364	Penjualan	10-05-2020	Feri	Item-05	Mi Goreng Instant	4	2600
+364	Penjualan	10-05-2020	Feri	Item-06	Sabun Mandi Cair 100 ml	2	10500
+365	Penjualan	10-05-2020	Indah	Item-01	Batere AA	1	12000
+365	Penjualan	10-05-2020	Indah	Item-02	Bawang Putih 200 gram	4	15000
+365	Penjualan	10-05-2020	Indah	Item-03	Gula Pasir Putih 1 kg	3	12500
+365	Penjualan	10-05-2020	Indah	Item-05	Mi Goreng Instant	1	2600
+365	Penjualan	10-05-2020	Indah	Item-06	Sabun Mandi Cair 100 ml	3	10500
+366	Penjualan	10-05-2020	Krisda	Item-06	Sabun Mandi Cair 100 ml	2	10500
+367	Penjualan	10-05-2020	Kurnia	Item-01	Batere AA	4	12000
+367	Penjualan	10-05-2020	Kurnia	Item-02	Bawang Putih 200 gram	2	15000
+367	Penjualan	10-05-2020	Kurnia	Item-03	Gula Pasir Putih 1 kg	1	12500
+367	Penjualan	10-05-2020	Kurnia	Item-05	Mi Goreng Instant	1	2600
+367	Penjualan	10-05-2020	Kurnia	Item-06	Sabun Mandi Cair 100 ml	4	10500
+368	Penjualan	10-05-2020	Marta	Item-05	Mi Goreng Instant	4	2600
+368	Penjualan	10-05-2020	Marta	Item-06	Sabun Mandi Cair 100 ml	2	10500
+369	Penjualan	10-05-2020	Nita	Item-01	Batere AA	2	12000
+369	Penjualan	10-05-2020	Nita	Item-02	Bawang Putih 200 gram	4	15000
+369	Penjualan	10-05-2020	Nita	Item-03	Gula Pasir Putih 1 kg	3	12500
+369	Penjualan	10-05-2020	Nita	Item-05	Mi Goreng Instant	1	2600
+369	Penjualan	10-05-2020	Nita	Item-06	Sabun Mandi Cair 100 ml	2	10500
+370	Penjualan	10-05-2020	Putra	Item-01	Batere AA	2	12000
+370	Penjualan	10-05-2020	Putra	Item-02	Bawang Putih 200 gram	2	15000
+370	Penjualan	10-05-2020	Putra	Item-03	Gula Pasir Putih 1 kg	2	12500
+370	Penjualan	10-05-2020	Putra	Item-05	Mi Goreng Instant	2	2600
+370	Penjualan	10-05-2020	Putra	Item-06	Sabun Mandi Cair 100 ml	1	10500
+371	Penjualan	10-05-2020	Siti	Item-06	Sabun Mandi Cair 100 ml	3	10500
+372	Penjualan	10-05-2020	Tia	Item-06	Sabun Mandi Cair 100 ml	4	10500
+373	Stok Masuk	11-05-2020	-	Item-02	Bawang Putih 200 gram	22	-
+373	Stok Masuk	11-05-2020	-	Item-09	Roti Tawar	17	-
+373	Stok Masuk	11-05-2020	-	Item-14	Teh Celup Melati	38	-
+373	Stok Masuk	11-05-2020	-	Item-18	Telur Ayam Negeri	50	-
+374	Penjualan	11-05-2020	Bagus	Item-06	Sabun Mandi Cair 100 ml	1	10500
+374	Penjualan	11-05-2020	Bagus	Item-08	Vitamin C	3	2000
+375	Penjualan	11-05-2020	Bella	Item-06	Sabun Mandi Cair 100 ml	2	10500
+376	Penjualan	11-05-2020	Fajri	Item-03	Gula Pasir Putih 1 kg	3	12500
+376	Penjualan	11-05-2020	Fajri	Item-05	Mi Goreng Instant	3	2600
+376	Penjualan	11-05-2020	Fajri	Item-06	Sabun Mandi Cair 100 ml	4	10500
+377	Penjualan	11-05-2020	Hengky	Item-03	Gula Pasir Putih 1 kg	2	12500
+377	Penjualan	11-05-2020	Hengky	Item-06	Sabun Mandi Cair 100 ml	3	10500
+377	Penjualan	11-05-2020	Hengky	Item-09	Roti Tawar	2	12500
+378	Penjualan	11-05-2020	Rahmad	Item-06	Sabun Mandi Cair 100 ml	2	10500
+379	Penjualan	11-05-2020	Ujang	Item-01	Batere AA	3	12000
+379	Penjualan	11-05-2020	Ujang	Item-02	Bawang Putih 200 gram	4	15000
+379	Penjualan	11-05-2020	Ujang	Item-03	Gula Pasir Putih 1 kg	1	12500
+379	Penjualan	11-05-2020	Ujang	Item-05	Mi Goreng Instant	3	2600
+379	Penjualan	11-05-2020	Ujang	Item-06	Sabun Mandi Cair 100 ml	1	10500
+380	Penjualan	11-05-2020	Wulan	Item-02	Bawang Putih 200 gram	4	15000
+380	Penjualan	11-05-2020	Wulan	Item-03	Gula Pasir Putih 1 kg	3	12500
+380	Penjualan	11-05-2020	Wulan	Item-05	Mi Goreng Instant	1	2600
+380	Penjualan	11-05-2020	Wulan	Item-06	Sabun Mandi Cair 100 ml	1	10500
+381	Penjualan	11-05-2020	Yudhi	Item-02	Bawang Putih 200 gram	1	15000
+381	Penjualan	11-05-2020	Yudhi	Item-03	Gula Pasir Putih 1 kg	3	12500
+381	Penjualan	11-05-2020	Yudhi	Item-05	Mi Goreng Instant	4	2600
+381	Penjualan	11-05-2020	Yudhi	Item-06	Sabun Mandi Cair 100 ml	4	10500
+382	Stok Masuk	12-05-2020	-	Item-07	Sabut Cuci Piring	8	-
+382	Stok Masuk	12-05-2020	-	Item-09	Roti Tawar	17	-
+382	Stok Masuk	12-05-2020	-	Item-16	Balsem Putih 20 gram	7	-
+383	Penjualan	12-05-2020	Andi	Item-06	Sabun Mandi Cair 100 ml	4	10500
+383	Penjualan	12-05-2020	Andi	Item-09	Roti Tawar	2	12500
+384	Penjualan	12-05-2020	Asep	Item-09	Roti Tawar	2	12500
+385	Penjualan	12-05-2020	Jaya	Item-02	Bawang Putih 200 gram	2	15000
+385	Penjualan	12-05-2020	Jaya	Item-03	Gula Pasir Putih 1 kg	3	12500
+385	Penjualan	12-05-2020	Jaya	Item-06	Sabun Mandi Cair 100 ml	1	10500
+385	Penjualan	12-05-2020	Jaya	Item-07	Sabut Cuci Piring	2	7500
+386	Penjualan	12-05-2020	Murni	Item-01	Batere AA	2	12000
+386	Penjualan	12-05-2020	Murni	Item-02	Bawang Putih 200 gram	2	15000
+386	Penjualan	12-05-2020	Murni	Item-03	Gula Pasir Putih 1 kg	2	12500
+386	Penjualan	12-05-2020	Murni	Item-06	Sabun Mandi Cair 100 ml	1	10500
+386	Penjualan	12-05-2020	Murni	Item-09	Roti Tawar	1	12500
+387	Penjualan	12-05-2020	Rahma	Item-09	Roti Tawar	2	12500
+388	Penjualan	12-05-2020	Tika	Item-01	Batere AA	3	12000
+388	Penjualan	12-05-2020	Tika	Item-02	Bawang Putih 200 gram	4	15000
+388	Penjualan	12-05-2020	Tika	Item-03	Gula Pasir Putih 1 kg	2	12500
+388	Penjualan	12-05-2020	Tika	Item-06	Sabun Mandi Cair 100 ml	2	10500
+388	Penjualan	12-05-2020	Tika	Item-07	Sabut Cuci Piring	2	7500
+389	Penjualan	12-05-2020	Zaki	Item-03	Gula Pasir Putih 1 kg	4	12500
+389	Penjualan	12-05-2020	Zaki	Item-06	Sabun Mandi Cair 100 ml	2	10500
+389	Penjualan	12-05-2020	Zaki	Item-07	Sabut Cuci Piring	4	7500
+390	Stok Masuk	13-05-2020	-	Item-04	Kopi Instant	61	-
+390	Stok Masuk	13-05-2020	-	Item-05	Mi Goreng Instant	70	-
+390	Stok Masuk	13-05-2020	-	Item-09	Roti Tawar	14	-
+390	Stok Masuk	13-05-2020	-	Item-11	Sabun Cuci Piring	34	-
+390	Stok Masuk	13-05-2020	-	Item-20	Gunting Kuku	16	-
+391	Penjualan	13-05-2020	Diki	Item-05	Mi Goreng Instant	3	2600
+392	Penjualan	13-05-2020	Iqbal	Item-02	Bawang Putih 200 gram	3	15000
+392	Penjualan	13-05-2020	Iqbal	Item-03	Gula Pasir Putih 1 kg	2	12500
+392	Penjualan	13-05-2020	Iqbal	Item-04	Kopi Instant	1	5200
+392	Penjualan	13-05-2020	Iqbal	Item-05	Mi Goreng Instant	1	2600
+393	Penjualan	13-05-2020	Randi	Item-02	Bawang Putih 200 gram	3	15000
+393	Penjualan	13-05-2020	Randi	Item-03	Gula Pasir Putih 1 kg	3	12500
+393	Penjualan	13-05-2020	Randi	Item-04	Kopi Instant	2	5200
+393	Penjualan	13-05-2020	Randi	Item-05	Mi Goreng Instant	1	2600
+394	Penjualan	13-05-2020	Siti	Item-05	Mi Goreng Instant	3	2600
+395	Penjualan	13-05-2020	Sri	Item-03	Gula Pasir Putih 1 kg	3	12500
+395	Penjualan	13-05-2020	Sri	Item-04	Kopi Instant	4	5200
+395	Penjualan	13-05-2020	Sri	Item-05	Mi Goreng Instant	2	2600
+396	Stok Masuk	14-05-2020	-	Item-02	Bawang Putih 200 gram	25	-
+396	Stok Masuk	14-05-2020	-	Item-03	Gula Pasir Putih 1 kg	40	-
+396	Stok Masuk	14-05-2020	-	Item-08	Vitamin C	50	-
+397	Penjualan	14-05-2020	Hasan	Item-05	Mi Goreng Instant	2	2600
+398	Penjualan	14-05-2020	Hengky	Item-03	Gula Pasir Putih 1 kg	3	12500
+398	Penjualan	14-05-2020	Hengky	Item-04	Kopi Instant	3	5200
+398	Penjualan	14-05-2020	Hengky	Item-05	Mi Goreng Instant	3	2600
+399	Penjualan	14-05-2020	Kardi	Item-02	Bawang Putih 200 gram	1	15000
+399	Penjualan	14-05-2020	Kardi	Item-03	Gula Pasir Putih 1 kg	2	12500
+399	Penjualan	14-05-2020	Kardi	Item-04	Kopi Instant	2	5200
+399	Penjualan	14-05-2020	Kardi	Item-05	Mi Goreng Instant	1	2600
+400	Penjualan	14-05-2020	Komang	Item-04	Kopi Instant	4	5200
+400	Penjualan	14-05-2020	Komang	Item-05	Mi Goreng Instant	2	2600
+401	Penjualan	14-05-2020	Krisda	Item-01	Batere AA	2	12000
+401	Penjualan	14-05-2020	Krisda	Item-02	Bawang Putih 200 gram	4	15000
+401	Penjualan	14-05-2020	Krisda	Item-03	Gula Pasir Putih 1 kg	2	12500
+401	Penjualan	14-05-2020	Krisda	Item-04	Kopi Instant	3	5200
+401	Penjualan	14-05-2020	Krisda	Item-05	Mi Goreng Instant	3	2600
+402	Penjualan	14-05-2020	Marta	Item-02	Bawang Putih 200 gram	2	15000
+402	Penjualan	14-05-2020	Marta	Item-03	Gula Pasir Putih 1 kg	1	12500
+402	Penjualan	14-05-2020	Marta	Item-04	Kopi Instant	1	5200
+402	Penjualan	14-05-2020	Marta	Item-05	Mi Goreng Instant	2	2600
+403	Penjualan	14-05-2020	Mita, Mira	Item-02	Bawang Putih 200 gram	3	15000
+403	Penjualan	14-05-2020	Mita, Mira	Item-03	Gula Pasir Putih 1 kg	3	12500
+403	Penjualan	14-05-2020	Mita, Mira	Item-04	Kopi Instant	1	5200
+403	Penjualan	14-05-2020	Mita, Mira	Item-05	Mi Goreng Instant	3	2600
+404	Penjualan	14-05-2020	Putri	Item-02	Bawang Putih 200 gram	4	15000
+404	Penjualan	14-05-2020	Putri	Item-03	Gula Pasir Putih 1 kg	2	12500
+404	Penjualan	14-05-2020	Putri	Item-04	Kopi Instant	4	5200
+404	Penjualan	14-05-2020	Putri	Item-05	Mi Goreng Instant	2	2600
+405	Penjualan	14-05-2020	Rasyid	Item-02	Bawang Putih 200 gram	2	15000
+405	Penjualan	14-05-2020	Rasyid	Item-03	Gula Pasir Putih 1 kg	1	12500
+405	Penjualan	14-05-2020	Rasyid	Item-04	Kopi Instant	2	5200
+405	Penjualan	14-05-2020	Rasyid	Item-05	Mi Goreng Instant	4	2600
+406	Penjualan	14-05-2020	Tri	Item-04	Kopi Instant	4	5200
+406	Penjualan	14-05-2020	Tri	Item-05	Mi Goreng Instant	4	2600
+407	Stok Masuk	15-05-2020	-	Item-05	Mi Goreng Instant	61	-
+407	Stok Masuk	15-05-2020	-	Item-06	Sabun Mandi Cair 100 ml	66	-
+407	Stok Masuk	15-05-2020	-	Item-18	Telur Ayam Negeri	82	-
+408	Penjualan	15-05-2020	Anggun	Item-01	Batere AA	3	12000
+408	Penjualan	15-05-2020	Anggun	Item-02	Bawang Putih 200 gram	1	15000
+408	Penjualan	15-05-2020	Anggun	Item-03	Gula Pasir Putih 1 kg	2	12500
+408	Penjualan	15-05-2020	Anggun	Item-04	Kopi Instant	3	5200
+408	Penjualan	15-05-2020	Anggun	Item-05	Mi Goreng Instant	4	2600
+409	Penjualan	15-05-2020	Hadi	Item-02	Bawang Putih 200 gram	2	15000
+409	Penjualan	15-05-2020	Hadi	Item-03	Gula Pasir Putih 1 kg	2	12500
+409	Penjualan	15-05-2020	Hadi	Item-04	Kopi Instant	3	5200
+409	Penjualan	15-05-2020	Hadi	Item-05	Mi Goreng Instant	2	2600
+410	Penjualan	15-05-2020	Nita	Item-04	Kopi Instant	1	5200
+410	Penjualan	15-05-2020	Nita	Item-05	Mi Goreng Instant	2	2600
+411	Penjualan	15-05-2020	Ujang	Item-01	Batere AA	4	12000
+411	Penjualan	15-05-2020	Ujang	Item-02	Bawang Putih 200 gram	2	15000
+411	Penjualan	15-05-2020	Ujang	Item-03	Gula Pasir Putih 1 kg	4	12500
+411	Penjualan	15-05-2020	Ujang	Item-04	Kopi Instant	2	5200
+411	Penjualan	15-05-2020	Ujang	Item-05	Mi Goreng Instant	3	2600
+412	Penjualan	15-05-2020	Wulan	Item-02	Bawang Putih 200 gram	4	15000
+412	Penjualan	15-05-2020	Wulan	Item-03	Gula Pasir Putih 1 kg	3	12500
+412	Penjualan	15-05-2020	Wulan	Item-04	Kopi Instant	2	5200
+412	Penjualan	15-05-2020	Wulan	Item-05	Mi Goreng Instant	4	2600
+413	Penjualan	15-05-2020	Yuli	Item-04	Kopi Instant	4	5200
+413	Penjualan	15-05-2020	Yuli	Item-05	Mi Goreng Instant	4	2600
+414	Stok Masuk	16-05-2020	-	Item-03	Gula Pasir Putih 1 kg	42	-
+414	Stok Masuk	16-05-2020	-	Item-09	Roti Tawar	18	-
+415	Penjualan	16-05-2020	Bagus	Item-02	Bawang Putih 200 gram	3	15000
+415	Penjualan	16-05-2020	Bagus	Item-03	Gula Pasir Putih 1 kg	1	12500
+415	Penjualan	16-05-2020	Bagus	Item-04	Kopi Instant	1	5200
+415	Penjualan	16-05-2020	Bagus	Item-05	Mi Goreng Instant	1	2600
+416	Penjualan	16-05-2020	Bella	Item-05	Mi Goreng Instant	1	2600
+417	Penjualan	16-05-2020	Zahra	Item-01	Batere AA	1	12000
+417	Penjualan	16-05-2020	Zahra	Item-02	Bawang Putih 200 gram	2	15000
+417	Penjualan	16-05-2020	Zahra	Item-03	Gula Pasir Putih 1 kg	1	12500
+417	Penjualan	16-05-2020	Zahra	Item-04	Kopi Instant	2	5200
+417	Penjualan	16-05-2020	Zahra	Item-05	Mi Goreng Instant	4	2600
+418	Stok Masuk	17-05-2020	-	Item-02	Bawang Putih 200 gram	20	-
+418	Stok Masuk	17-05-2020	-	Item-09	Roti Tawar	13	-
+418	Stok Masuk	17-05-2020	-	Item-10	Biskuit Waver Kaleng	29	-
+418	Stok Masuk	17-05-2020	-	Item-18	Telur Ayam Negeri	100	-
+418	Stok Masuk	17-05-2020	-	Item-19	Obat Diare	33	-
+419	Penjualan	17-05-2020	Andi	Item-04	Kopi Instant	2	5200
+419	Penjualan	17-05-2020	Andi	Item-05	Mi Goreng Instant	2	2600
+420	Penjualan	17-05-2020	Asep	Item-01	Batere AA	1	12000
+420	Penjualan	17-05-2020	Asep	Item-02	Bawang Putih 200 gram	1	15000
+420	Penjualan	17-05-2020	Asep	Item-03	Gula Pasir Putih 1 kg	4	12500
+420	Penjualan	17-05-2020	Asep	Item-04	Kopi Instant	2	5200
+420	Penjualan	17-05-2020	Asep	Item-05	Mi Goreng Instant	1	2600
+421	Penjualan	17-05-2020	Galang	Item-02	Bawang Putih 200 gram	4	15000
+421	Penjualan	17-05-2020	Galang	Item-03	Gula Pasir Putih 1 kg	1	12500
+421	Penjualan	17-05-2020	Galang	Item-04	Kopi Instant	2	5200
+421	Penjualan	17-05-2020	Galang	Item-05	Mi Goreng Instant	2	2600
+422	Penjualan	17-05-2020	Komang	Item-05	Mi Goreng Instant	3	2600
+423	Penjualan	17-05-2020	Rahmad	Item-01	Batere AA	1	12000
+423	Penjualan	17-05-2020	Rahmad	Item-02	Bawang Putih 200 gram	1	15000
+423	Penjualan	17-05-2020	Rahmad	Item-03	Gula Pasir Putih 1 kg	2	12500
+423	Penjualan	17-05-2020	Rahmad	Item-04	Kopi Instant	2	5200
+423	Penjualan	17-05-2020	Rahmad	Item-05	Mi Goreng Instant	3	2600
+424	Penjualan	17-05-2020	Sri	Item-02	Bawang Putih 200 gram	2	15000
+424	Penjualan	17-05-2020	Sri	Item-03	Gula Pasir Putih 1 kg	3	12500
+424	Penjualan	17-05-2020	Sri	Item-04	Kopi Instant	2	5200
+424	Penjualan	17-05-2020	Sri	Item-05	Mi Goreng Instant	2	2600
+425	Stok Masuk	18-05-2020	-	Item-09	Roti Tawar	12	-
+425	Stok Masuk	18-05-2020	-	Item-17	Obat Batuk	42	-
+426	Penjualan	18-05-2020	Agung	Item-03	Gula Pasir Putih 1 kg	1	12500
+426	Penjualan	18-05-2020	Agung	Item-04	Kopi Instant	1	5200
+426	Penjualan	18-05-2020	Agung	Item-05	Mi Goreng Instant	2	2600
+427	Penjualan	18-05-2020	Krisda	Item-03	Gula Pasir Putih 1 kg	3	12500
+427	Penjualan	18-05-2020	Krisda	Item-05	Mi Goreng Instant	1	2600
+427	Penjualan	18-05-2020	Krisda	Item-06	Sabun Mandi Cair 100 ml	2	10500
+427	Penjualan	18-05-2020	Krisda	Item-08	Vitamin C	3	2000
+428	Penjualan	18-05-2020	Mahmud	Item-01	Batere AA	3	12000
+428	Penjualan	18-05-2020	Mahmud	Item-02	Bawang Putih 200 gram	4	15000
+428	Penjualan	18-05-2020	Mahmud	Item-03	Gula Pasir Putih 1 kg	1	12500
+428	Penjualan	18-05-2020	Mahmud	Item-05	Mi Goreng Instant	3	2600
+428	Penjualan	18-05-2020	Mahmud	Item-06	Sabun Mandi Cair 100 ml	1	10500
+429	Penjualan	18-05-2020	Marta	Item-01	Batere AA	1	12000
+429	Penjualan	18-05-2020	Marta	Item-02	Bawang Putih 200 gram	4	15000
+429	Penjualan	18-05-2020	Marta	Item-03	Gula Pasir Putih 1 kg	4	12500
+429	Penjualan	18-05-2020	Marta	Item-05	Mi Goreng Instant	2	2600
+429	Penjualan	18-05-2020	Marta	Item-06	Sabun Mandi Cair 100 ml	2	10500
+430	Penjualan	18-05-2020	Murni	Item-03	Gula Pasir Putih 1 kg	1	12500
+430	Penjualan	18-05-2020	Murni	Item-04	Kopi Instant	1	5200
+430	Penjualan	18-05-2020	Murni	Item-05	Mi Goreng Instant	3	2600
+431	Penjualan	18-05-2020	Rahma	Item-06	Sabun Mandi Cair 100 ml	2	10500
+432	Penjualan	18-05-2020	Tia	Item-03	Gula Pasir Putih 1 kg	1	12500
+432	Penjualan	18-05-2020	Tia	Item-05	Mi Goreng Instant	1	2600
+432	Penjualan	18-05-2020	Tia	Item-06	Sabun Mandi Cair 100 ml	2	10500
+433	Stok Masuk	19-05-2020	-	Item-03	Gula Pasir Putih 1 kg	45	-
+433	Stok Masuk	19-05-2020	-	Item-05	Mi Goreng Instant	62	-
+433	Stok Masuk	19-05-2020	-	Item-12	Beras Pulen 5 kg	25	-
+433	Stok Masuk	19-05-2020	-	Item-13	Pisau Cukur	20	-
+433	Stok Masuk	19-05-2020	-	Item-16	Balsem Putih 20 gram	7	-
+434	Penjualan	19-05-2020	Diki	Item-06	Sabun Mandi Cair 100 ml	3	10500
+434	Penjualan	19-05-2020	Diki	Item-08	Vitamin C	3	2000
+435	Penjualan	19-05-2020	Hengky	Item-03	Gula Pasir Putih 1 kg	1	12500
+435	Penjualan	19-05-2020	Hengky	Item-05	Mi Goreng Instant	4	2600
+435	Penjualan	19-05-2020	Hengky	Item-06	Sabun Mandi Cair 100 ml	1	10500
+435	Penjualan	19-05-2020	Hengky	Item-08	Vitamin C	3	2000
+436	Penjualan	19-05-2020	Putra	Item-02	Bawang Putih 200 gram	1	15000
+436	Penjualan	19-05-2020	Putra	Item-03	Gula Pasir Putih 1 kg	3	12500
+436	Penjualan	19-05-2020	Putra	Item-05	Mi Goreng Instant	4	2600
+436	Penjualan	19-05-2020	Putra	Item-06	Sabun Mandi Cair 100 ml	2	10500
+436	Penjualan	19-05-2020	Putra	Item-08	Vitamin C	1	2000
+437	Penjualan	19-05-2020	Putri	Item-05	Mi Goreng Instant	1	2600
+437	Penjualan	19-05-2020	Putri	Item-06	Sabun Mandi Cair 100 ml	4	10500
+437	Penjualan	19-05-2020	Putri	Item-08	Vitamin C	3	2000
+438	Penjualan	19-05-2020	Tri	Item-08	Vitamin C	1	2000
+439	Penjualan	19-05-2020	Wulan	Item-06	Sabun Mandi Cair 100 ml	2	10500
+439	Penjualan	19-05-2020	Wulan	Item-08	Vitamin C	2	2000
+440	Penjualan	19-05-2020	Zaki	Item-02	Bawang Putih 200 gram	2	15000
+440	Penjualan	19-05-2020	Zaki	Item-03	Gula Pasir Putih 1 kg	2	12500
+440	Penjualan	19-05-2020	Zaki	Item-05	Mi Goreng Instant	2	2600
+440	Penjualan	19-05-2020	Zaki	Item-06	Sabun Mandi Cair 100 ml	4	10500
+440	Penjualan	19-05-2020	Zaki	Item-08	Vitamin C	1	2000
+441	Stok Masuk	20-05-2020	-	Item-02	Bawang Putih 200 gram	43	-
+441	Stok Masuk	20-05-2020	-	Item-04	Kopi Instant	43	-
+441	Stok Masuk	20-05-2020	-	Item-19	Obat Diare	20	-
+442	Penjualan	20-05-2020	Fajri	Item-05	Mi Goreng Instant	1	2600
+442	Penjualan	20-05-2020	Fajri	Item-06	Sabun Mandi Cair 100 ml	1	10500
+443	Penjualan	20-05-2020	Feri	Item-04	Kopi Instant	1	5200
+443	Penjualan	20-05-2020	Feri	Item-05	Mi Goreng Instant	1	2600
+443	Penjualan	20-05-2020	Feri	Item-06	Sabun Mandi Cair 100 ml	1	10500
+444	Penjualan	20-05-2020	Hasan	Item-05	Mi Goreng Instant	1	2600
+444	Penjualan	20-05-2020	Hasan	Item-06	Sabun Mandi Cair 100 ml	1	10500
+445	Penjualan	20-05-2020	Jaya	Item-06	Sabun Mandi Cair 100 ml	2	10500
+446	Penjualan	20-05-2020	Mita, Mira	Item-02	Bawang Putih 200 gram	2	15000
+446	Penjualan	20-05-2020	Mita, Mira	Item-03	Gula Pasir Putih 1 kg	2	12500
+446	Penjualan	20-05-2020	Mita, Mira	Item-04	Kopi Instant	2	5200
+446	Penjualan	20-05-2020	Mita, Mira	Item-05	Mi Goreng Instant	3	2600
+446	Penjualan	20-05-2020	Mita, Mira	Item-06	Sabun Mandi Cair 100 ml	4	10500
+447	Penjualan	20-05-2020	Nita	Item-05	Mi Goreng Instant	2	2600
+447	Penjualan	20-05-2020	Nita	Item-06	Sabun Mandi Cair 100 ml	3	10500
+448	Penjualan	20-05-2020	Randi	Item-05	Mi Goreng Instant	1	2600
+448	Penjualan	20-05-2020	Randi	Item-06	Sabun Mandi Cair 100 ml	2	10500
+449	Penjualan	20-05-2020	Rasyid	Item-03	Gula Pasir Putih 1 kg	2	12500
+449	Penjualan	20-05-2020	Rasyid	Item-04	Kopi Instant	1	5200
+449	Penjualan	20-05-2020	Rasyid	Item-05	Mi Goreng Instant	3	2600
+449	Penjualan	20-05-2020	Rasyid	Item-06	Sabun Mandi Cair 100 ml	2	10500
+450	Stok Masuk	21-05-2020	-	Item-09	Roti Tawar	14	-
+450	Stok Masuk	21-05-2020	-	Item-11	Sabun Cuci Piring	78	-
+450	Stok Masuk	21-05-2020	-	Item-14	Teh Celup Melati	31	-
+450	Stok Masuk	21-05-2020	-	Item-18	Telur Ayam Negeri	71	-
+450	Stok Masuk	21-05-2020	-	Item-20	Gunting Kuku	12	-
+451	Penjualan	21-05-2020	Agung	Item-02	Bawang Putih 200 gram	4	15000
+451	Penjualan	21-05-2020	Agung	Item-03	Gula Pasir Putih 1 kg	3	12500
+451	Penjualan	21-05-2020	Agung	Item-04	Kopi Instant	3	5200
+451	Penjualan	21-05-2020	Agung	Item-05	Mi Goreng Instant	3	2600
+451	Penjualan	21-05-2020	Agung	Item-06	Sabun Mandi Cair 100 ml	4	10500
+452	Penjualan	21-05-2020	Hadi	Item-06	Sabun Mandi Cair 100 ml	1	10500
+453	Penjualan	21-05-2020	Kardi	Item-05	Mi Goreng Instant	2	2600
+453	Penjualan	21-05-2020	Kardi	Item-06	Sabun Mandi Cair 100 ml	3	10500
+454	Penjualan	21-05-2020	Komang	Item-02	Bawang Putih 200 gram	3	15000
+454	Penjualan	21-05-2020	Komang	Item-03	Gula Pasir Putih 1 kg	4	12500
+454	Penjualan	21-05-2020	Komang	Item-04	Kopi Instant	4	5200
+454	Penjualan	21-05-2020	Komang	Item-05	Mi Goreng Instant	3	2600
+454	Penjualan	21-05-2020	Komang	Item-06	Sabun Mandi Cair 100 ml	3	10500
+455	Penjualan	21-05-2020	Kurnia	Item-03	Gula Pasir Putih 1 kg	1	12500
+455	Penjualan	21-05-2020	Kurnia	Item-04	Kopi Instant	3	5200
+455	Penjualan	21-05-2020	Kurnia	Item-05	Mi Goreng Instant	3	2600
+455	Penjualan	21-05-2020	Kurnia	Item-06	Sabun Mandi Cair 100 ml	2	10500
+456	Penjualan	21-05-2020	Marta	Item-03	Gula Pasir Putih 1 kg	3	12500
+456	Penjualan	21-05-2020	Marta	Item-04	Kopi Instant	2	5200
+456	Penjualan	21-05-2020	Marta	Item-05	Mi Goreng Instant	4	2600
+456	Penjualan	21-05-2020	Marta	Item-06	Sabun Mandi Cair 100 ml	2	10500
+457	Penjualan	21-05-2020	Yuli	Item-03	Gula Pasir Putih 1 kg	4	12500
+457	Penjualan	21-05-2020	Yuli	Item-04	Kopi Instant	3	5200
+457	Penjualan	21-05-2020	Yuli	Item-05	Mi Goreng Instant	3	2600
+457	Penjualan	21-05-2020	Yuli	Item-06	Sabun Mandi Cair 100 ml	3	10500
+458	Stok Masuk	22-05-2020	-	Item-03	Gula Pasir Putih 1 kg	44	-
+458	Stok Masuk	22-05-2020	-	Item-06	Sabun Mandi Cair 100 ml	54	-
+459	Penjualan	22-05-2020	Rahmad	Item-06	Sabun Mandi Cair 100 ml	4	10500
+460	Penjualan	22-05-2020	Siti	Item-05	Mi Goreng Instant	4	2600
+460	Penjualan	22-05-2020	Siti	Item-06	Sabun Mandi Cair 100 ml	4	10500
+461	Stok Masuk	23-05-2020	-	Item-01	Batere AA	46	-
+461	Stok Masuk	23-05-2020	-	Item-02	Bawang Putih 200 gram	58	-
+461	Stok Masuk	23-05-2020	-	Item-18	Telur Ayam Negeri	86	-
+462	Penjualan	23-05-2020	Anggun	Item-05	Mi Goreng Instant	4	2600
+463	Penjualan	23-05-2020	Diki	Item-04	Kopi Instant	3	5200
+463	Penjualan	23-05-2020	Diki	Item-05	Mi Goreng Instant	4	2600
+464	Penjualan	23-05-2020	Galang	Item-04	Kopi Instant	4	5200
+464	Penjualan	23-05-2020	Galang	Item-05	Mi Goreng Instant	1	2600
+465	Penjualan	23-05-2020	Iqbal	Item-03	Gula Pasir Putih 1 kg	3	12500
+465	Penjualan	23-05-2020	Iqbal	Item-04	Kopi Instant	4	5200
+465	Penjualan	23-05-2020	Iqbal	Item-05	Mi Goreng Instant	1	2600
+466	Penjualan	23-05-2020	Jaya	Item-03	Gula Pasir Putih 1 kg	3	12500
+466	Penjualan	23-05-2020	Jaya	Item-04	Kopi Instant	2	5200
+466	Penjualan	23-05-2020	Jaya	Item-05	Mi Goreng Instant	4	2600
+467	Penjualan	23-05-2020	Murni	Item-05	Mi Goreng Instant	4	2600
+468	Penjualan	23-05-2020	Sri	Item-05	Mi Goreng Instant	2	2600
+469	Penjualan	23-05-2020	Wulan	Item-02	Bawang Putih 200 gram	1	15000
+469	Penjualan	23-05-2020	Wulan	Item-03	Gula Pasir Putih 1 kg	3	12500
+469	Penjualan	23-05-2020	Wulan	Item-04	Kopi Instant	4	5200
+469	Penjualan	23-05-2020	Wulan	Item-05	Mi Goreng Instant	1	2600
+470	Penjualan	23-05-2020	Zahra	Item-02	Bawang Putih 200 gram	2	15000
+470	Penjualan	23-05-2020	Zahra	Item-03	Gula Pasir Putih 1 kg	2	12500
+470	Penjualan	23-05-2020	Zahra	Item-04	Kopi Instant	2	5200
+470	Penjualan	23-05-2020	Zahra	Item-05	Mi Goreng Instant	3	2600
+471	Stok Masuk	24-05-2020	-	Item-05	Mi Goreng Instant	90	-
+471	Stok Masuk	24-05-2020	-	Item-07	Sabut Cuci Piring	6	-
+471	Stok Masuk	24-05-2020	-	Item-08	Vitamin C	34	-
+471	Stok Masuk	24-05-2020	-	Item-09	Roti Tawar	16	-
+472	Penjualan	24-05-2020	Andi	Item-05	Mi Goreng Instant	3	2600
+473	Penjualan	24-05-2020	Tri	Item-01	Batere AA	3	12000
+473	Penjualan	24-05-2020	Tri	Item-02	Bawang Putih 200 gram	1	15000
+473	Penjualan	24-05-2020	Tri	Item-03	Gula Pasir Putih 1 kg	4	12500
+473	Penjualan	24-05-2020	Tri	Item-04	Kopi Instant	3	5200
+473	Penjualan	24-05-2020	Tri	Item-05	Mi Goreng Instant	2	2600
+474	Stok Masuk	25-05-2020	-	Item-02	Bawang Putih 200 gram	41	-
+474	Stok Masuk	25-05-2020	-	Item-09	Roti Tawar	17	-
+474	Stok Masuk	25-05-2020	-	Item-10	Biskuit Waver Kaleng	48	-
+474	Stok Masuk	25-05-2020	-	Item-18	Telur Ayam Negeri	79	-
+475	Penjualan	25-05-2020	Kardi	Item-01	Batere AA	2	12000
+475	Penjualan	25-05-2020	Kardi	Item-02	Bawang Putih 200 gram	4	15000
+475	Penjualan	25-05-2020	Kardi	Item-03	Gula Pasir Putih 1 kg	2	12500
+475	Penjualan	25-05-2020	Kardi	Item-04	Kopi Instant	2	5200
+475	Penjualan	25-05-2020	Kardi	Item-05	Mi Goreng Instant	3	2600
+476	Penjualan	25-05-2020	Rahma	Item-02	Bawang Putih 200 gram	4	15000
+476	Penjualan	25-05-2020	Rahma	Item-03	Gula Pasir Putih 1 kg	4	12500
+476	Penjualan	25-05-2020	Rahma	Item-05	Mi Goreng Instant	3	2600
+476	Penjualan	25-05-2020	Rahma	Item-06	Sabun Mandi Cair 100 ml	1	10500
+477	Stok Masuk	26-05-2020	-	Item-04	Kopi Instant	56	-
+477	Stok Masuk	26-05-2020	-	Item-05	Mi Goreng Instant	49	-
+477	Stok Masuk	26-05-2020	-	Item-14	Teh Celup Melati	56	-
+478	Penjualan	26-05-2020	Putri	Item-01	Batere AA	1	12000
+478	Penjualan	26-05-2020	Putri	Item-02	Bawang Putih 200 gram	2	15000
+478	Penjualan	26-05-2020	Putri	Item-03	Gula Pasir Putih 1 kg	2	12500
+478	Penjualan	26-05-2020	Putri	Item-04	Kopi Instant	3	5200
+478	Penjualan	26-05-2020	Putri	Item-05	Mi Goreng Instant	1	2600
+479	Penjualan	26-05-2020	Randi	Item-02	Bawang Putih 200 gram	3	15000
+479	Penjualan	26-05-2020	Randi	Item-03	Gula Pasir Putih 1 kg	3	12500
+479	Penjualan	26-05-2020	Randi	Item-04	Kopi Instant	4	5200
+479	Penjualan	26-05-2020	Randi	Item-05	Mi Goreng Instant	2	2600
+480	Penjualan	26-05-2020	Zaki	Item-04	Kopi Instant	2	5200
+480	Penjualan	26-05-2020	Zaki	Item-05	Mi Goreng Instant	2	2600
+481	Stok Masuk	27-05-2020	-	Item-03	Gula Pasir Putih 1 kg	37	-
+481	Stok Masuk	27-05-2020	-	Item-09	Roti Tawar	20	-
+481	Stok Masuk	27-05-2020	-	Item-17	Obat Batuk	47	-
+482	Penjualan	27-05-2020	Fajri	Item-01	Batere AA	4	12000
+482	Penjualan	27-05-2020	Fajri	Item-02	Bawang Putih 200 gram	1	15000
+482	Penjualan	27-05-2020	Fajri	Item-03	Gula Pasir Putih 1 kg	1	12500
+482	Penjualan	27-05-2020	Fajri	Item-04	Kopi Instant	3	5200
+482	Penjualan	27-05-2020	Fajri	Item-05	Mi Goreng Instant	1	2600
+483	Penjualan	27-05-2020	Kurnia	Item-05	Mi Goreng Instant	2	2600
+484	Penjualan	27-05-2020	Rahmad	Item-01	Batere AA	4	12000
+484	Penjualan	27-05-2020	Rahmad	Item-02	Bawang Putih 200 gram	1	15000
+484	Penjualan	27-05-2020	Rahmad	Item-03	Gula Pasir Putih 1 kg	1	12500
+484	Penjualan	27-05-2020	Rahmad	Item-04	Kopi Instant	1	5200
+484	Penjualan	27-05-2020	Rahmad	Item-05	Mi Goreng Instant	4	2600
+485	Stok Masuk	28-05-2020	-	Item-02	Bawang Putih 200 gram	43	-
+485	Stok Masuk	28-05-2020	-	Item-09	Roti Tawar	19	-
+486	Penjualan	28-05-2020	Galang	Item-03	Gula Pasir Putih 1 kg	1	12500
+486	Penjualan	28-05-2020	Galang	Item-04	Kopi Instant	4	5200
+486	Penjualan	28-05-2020	Galang	Item-05	Mi Goreng Instant	2	2600
+487	Penjualan	28-05-2020	Jaya	Item-05	Mi Goreng Instant	2	2600
+488	Penjualan	28-05-2020	Yuli	Item-04	Kopi Instant	4	5200
+488	Penjualan	28-05-2020	Yuli	Item-05	Mi Goreng Instant	1	2600
+489	Stok Masuk	29-05-2020	-	Item-03	Gula Pasir Putih 1 kg	37	-
+489	Stok Masuk	29-05-2020	-	Item-06	Sabun Mandi Cair 100 ml	77	-
+489	Stok Masuk	29-05-2020	-	Item-15	Ketan Hitam 500 gram	26	-
+489	Stok Masuk	29-05-2020	-	Item-18	Telur Ayam Negeri	92	-
+490	Penjualan	29-05-2020	Andi	Item-01	Batere AA	1	12000
+490	Penjualan	29-05-2020	Andi	Item-02	Bawang Putih 200 gram	1	15000
+490	Penjualan	29-05-2020	Andi	Item-03	Gula Pasir Putih 1 kg	3	12500
+490	Penjualan	29-05-2020	Andi	Item-04	Kopi Instant	3	5200
+490	Penjualan	29-05-2020	Andi	Item-05	Mi Goreng Instant	2	2600
+491	Penjualan	29-05-2020	Feri	Item-01	Batere AA	1	12000
+491	Penjualan	29-05-2020	Feri	Item-02	Bawang Putih 200 gram	4	15000
+491	Penjualan	29-05-2020	Feri	Item-03	Gula Pasir Putih 1 kg	3	12500
+491	Penjualan	29-05-2020	Feri	Item-04	Kopi Instant	1	5200
+491	Penjualan	29-05-2020	Feri	Item-05	Mi Goreng Instant	2	2600
+492	Penjualan	29-05-2020	Hadi	Item-03	Gula Pasir Putih 1 kg	1	12500
+492	Penjualan	29-05-2020	Hadi	Item-04	Kopi Instant	2	5200
+492	Penjualan	29-05-2020	Hadi	Item-05	Mi Goreng Instant	1	2600
+493	Penjualan	29-05-2020	Mahmud	Item-01	Batere AA	2	12000
+493	Penjualan	29-05-2020	Mahmud	Item-02	Bawang Putih 200 gram	2	15000
+493	Penjualan	29-05-2020	Mahmud	Item-03	Gula Pasir Putih 1 kg	1	12500
+493	Penjualan	29-05-2020	Mahmud	Item-04	Kopi Instant	4	5200
+493	Penjualan	29-05-2020	Mahmud	Item-05	Mi Goreng Instant	1	2600
+494	Penjualan	29-05-2020	Murni	Item-04	Kopi Instant	4	5200
+494	Penjualan	29-05-2020	Murni	Item-05	Mi Goreng Instant	4	2600
+495	Penjualan	29-05-2020	Tri	Item-04	Kopi Instant	3	5200
+495	Penjualan	29-05-2020	Tri	Item-05	Mi Goreng Instant	3	2600
+496	Stok Masuk	30-05-2020	-	Item-09	Roti Tawar	11	-
+496	Stok Masuk	30-05-2020	-	Item-11	Sabun Cuci Piring	16	-
+496	Stok Masuk	30-05-2020	-	Item-17	Obat Batuk	59	-
+496	Stok Masuk	30-05-2020	-	Item-19	Obat Diare	21	-
+497	Penjualan	30-05-2020	Anggun	Item-03	Gula Pasir Putih 1 kg	3	12500
+497	Penjualan	30-05-2020	Anggun	Item-04	Kopi Instant	2	5200
+497	Penjualan	30-05-2020	Anggun	Item-05	Mi Goreng Instant	1	2600
+498	Penjualan	30-05-2020	Diki	Item-03	Gula Pasir Putih 1 kg	4	12500
+498	Penjualan	30-05-2020	Diki	Item-04	Kopi Instant	4	5200
+498	Penjualan	30-05-2020	Diki	Item-05	Mi Goreng Instant	1	2600
+499	Penjualan	30-05-2020	Rahma	Item-03	Gula Pasir Putih 1 kg	3	12500
+499	Penjualan	30-05-2020	Rahma	Item-04	Kopi Instant	1	5200
+499	Penjualan	30-05-2020	Rahma	Item-05	Mi Goreng Instant	2	2600
+500	Penjualan	30-05-2020	Siti	Item-05	Mi Goreng Instant	1	2600
+501	Stok Masuk	31-05-2020	-	Item-02	Bawang Putih 200 gram	51	-
+501	Stok Masuk	31-05-2020	-	Item-03	Gula Pasir Putih 1 kg	46	-
+501	Stok Masuk	31-05-2020	-	Item-05	Mi Goreng Instant	30	-
+501	Stok Masuk	31-05-2020	-	Item-09	Roti Tawar	11	-
+501	Stok Masuk	31-05-2020	-	Item-14	Teh Celup Melati	15	-
+501	Stok Masuk	31-05-2020	-	Item-18	Telur Ayam Negeri	80	-
+502	Penjualan	31-05-2020	Agung	Item-05	Mi Goreng Instant	2	2600
+503	Penjualan	31-05-2020	Sri	Item-03	Gula Pasir Putih 1 kg	2	12500
+503	Penjualan	31-05-2020	Sri	Item-04	Kopi Instant	2	5200
+503	Penjualan	31-05-2020	Sri	Item-05	Mi Goreng Instant	4	2600
+504	Stok Masuk	01-06-2020	-	Item-08	Vitamin C	58	-
+504	Stok Masuk	01-06-2020	-	Item-13	Pisau Cukur	20	-
+504	Stok Masuk	01-06-2020	-	Item-16	Balsem Putih 20 gram	11	-
+505	Penjualan	01-06-2020	Rahmad	Item-02	Bawang Putih 200 gram	2	15000
+505	Penjualan	01-06-2020	Rahmad	Item-03	Gula Pasir Putih 1 kg	3	12500
+505	Penjualan	01-06-2020	Rahmad	Item-04	Kopi Instant	4	5200
+505	Penjualan	01-06-2020	Rahmad	Item-05	Mi Goreng Instant	4	2600
+506	Stok Masuk	02-06-2020	-	Item-02	Bawang Putih 200 gram	22	-
+506	Stok Masuk	02-06-2020	-	Item-04	Kopi Instant	54	-
+506	Stok Masuk	02-06-2020	-	Item-07	Sabut Cuci Piring	8	-
+506	Stok Masuk	02-06-2020	-	Item-09	Roti Tawar	18	-
+506	Stok Masuk	02-06-2020	-	Item-10	Biskuit Waver Kaleng	69	-
+506	Stok Masuk	02-06-2020	-	Item-17	Obat Batuk	55	-
+507	Penjualan	02-06-2020	Iqbal	Item-03	Gula Pasir Putih 1 kg	2	12500
+507	Penjualan	02-06-2020	Iqbal	Item-04	Kopi Instant	3	5200
+507	Penjualan	02-06-2020	Iqbal	Item-05	Mi Goreng Instant	3	2600
+508	Penjualan	02-06-2020	Kardi	Item-01	Batere AA	4	12000
+508	Penjualan	02-06-2020	Kardi	Item-02	Bawang Putih 200 gram	1	15000
+508	Penjualan	02-06-2020	Kardi	Item-03	Gula Pasir Putih 1 kg	3	12500
+508	Penjualan	02-06-2020	Kardi	Item-04	Kopi Instant	3	5200
+508	Penjualan	02-06-2020	Kardi	Item-05	Mi Goreng Instant	2	2600
+509	Penjualan	02-06-2020	Sri	Item-05	Mi Goreng Instant	4	2600
+510	Stok Masuk	03-06-2020	-	Item-06	Sabun Mandi Cair 100 ml	50	-
+510	Stok Masuk	03-06-2020	-	Item-09	Roti Tawar	17	-
+510	Stok Masuk	03-06-2020	-	Item-19	Obat Diare	45	-
+510	Stok Masuk	03-06-2020	-	Item-20	Gunting Kuku	17	-
+511	Penjualan	03-06-2020	Galang	Item-01	Batere AA	4	12000
+511	Penjualan	03-06-2020	Galang	Item-02	Bawang Putih 200 gram	1	15000
+511	Penjualan	03-06-2020	Galang	Item-03	Gula Pasir Putih 1 kg	1	12500
+511	Penjualan	03-06-2020	Galang	Item-04	Kopi Instant	1	5200
+511	Penjualan	03-06-2020	Galang	Item-05	Mi Goreng Instant	3	2600
+512	Penjualan	03-06-2020	Hadi	Item-04	Kopi Instant	2	5200
+512	Penjualan	03-06-2020	Hadi	Item-05	Mi Goreng Instant	4	2600
+513	Penjualan	03-06-2020	Jaya	Item-04	Kopi Instant	1	5200
+513	Penjualan	03-06-2020	Jaya	Item-05	Mi Goreng Instant	1	2600
+514	Stok Masuk	04-06-2020	-	Item-02	Bawang Putih 200 gram	30	-
+514	Stok Masuk	04-06-2020	-	Item-05	Mi Goreng Instant	90	-
+514	Stok Masuk	04-06-2020	-	Item-18	Telur Ayam Negeri	89	-
+515	Penjualan	04-06-2020	Andi	Item-05	Mi Goreng Instant	4	2600
+516	Penjualan	04-06-2020	Mahmud	Item-03	Gula Pasir Putih 1 kg	2	12500
+516	Penjualan	04-06-2020	Mahmud	Item-04	Kopi Instant	1	5200
+516	Penjualan	04-06-2020	Mahmud	Item-05	Mi Goreng Instant	2	2600
+517	Stok Masuk	05-06-2020	-	Item-03	Gula Pasir Putih 1 kg	45	-
+517	Stok Masuk	05-06-2020	-	Item-09	Roti Tawar	14	-
+517	Stok Masuk	05-06-2020	-	Item-12	Beras Pulen 5 kg	21	-
+518	Penjualan	05-06-2020	Diki	Item-04	Kopi Instant	2	5200
+518	Penjualan	05-06-2020	Diki	Item-05	Mi Goreng Instant	4	2600
+519	Penjualan	05-06-2020	Fajri	Item-02	Bawang Putih 200 gram	1	15000
+519	Penjualan	05-06-2020	Fajri	Item-03	Gula Pasir Putih 1 kg	4	12500
+519	Penjualan	05-06-2020	Fajri	Item-04	Kopi Instant	1	5200
+519	Penjualan	05-06-2020	Fajri	Item-05	Mi Goreng Instant	4	2600
+520	Penjualan	05-06-2020	Randi	Item-03	Gula Pasir Putih 1 kg	2	12500
+520	Penjualan	05-06-2020	Randi	Item-04	Kopi Instant	2	5200
+520	Penjualan	05-06-2020	Randi	Item-05	Mi Goreng Instant	1	2600
+521	Stok Masuk	06-06-2020	-	Item-02	Bawang Putih 200 gram	56	-
+521	Stok Masuk	06-06-2020	-	Item-08	Vitamin C	56	-
+521	Stok Masuk	06-06-2020	-	Item-09	Roti Tawar	14	-
+522	Penjualan	06-06-2020	Feri	Item-01	Batere AA	2	12000
+522	Penjualan	06-06-2020	Feri	Item-02	Bawang Putih 200 gram	1	15000
+522	Penjualan	06-06-2020	Feri	Item-03	Gula Pasir Putih 1 kg	1	12500
+522	Penjualan	06-06-2020	Feri	Item-04	Kopi Instant	1	5200
+522	Penjualan	06-06-2020	Feri	Item-05	Mi Goreng Instant	4	2600
+523	Penjualan	06-06-2020	Kurnia	Item-04	Kopi Instant	1	5200
+523	Penjualan	06-06-2020	Kurnia	Item-05	Mi Goreng Instant	1	2600
+524	Stok Masuk	07-06-2020	-	Item-01	Batere AA	89	-
+524	Stok Masuk	07-06-2020	-	Item-09	Roti Tawar	12	-
+524	Stok Masuk	07-06-2020	-	Item-11	Sabun Cuci Piring	51	-
+524	Stok Masuk	07-06-2020	-	Item-15	Ketan Hitam 500 gram	30	-
+525	Penjualan	07-06-2020	Jaya	Item-04	Kopi Instant	4	5200
+525	Penjualan	07-06-2020	Jaya	Item-05	Mi Goreng Instant	4	2600
+526	Stok Masuk	08-06-2020	-	Item-03	Gula Pasir Putih 1 kg	32	-
+526	Stok Masuk	08-06-2020	-	Item-06	Sabun Mandi Cair 100 ml	54	-
+526	Stok Masuk	08-06-2020	-	Item-09	Roti Tawar	14	-
+526	Stok Masuk	08-06-2020	-	Item-18	Telur Ayam Negeri	58	-
+527	Penjualan	08-06-2020	Agung	Item-03	Gula Pasir Putih 1 kg	2	12500
+527	Penjualan	08-06-2020	Agung	Item-04	Kopi Instant	1	5200
+527	Penjualan	08-06-2020	Agung	Item-05	Mi Goreng Instant	1	2600
+528	Penjualan	08-06-2020	Siti	Item-03	Gula Pasir Putih 1 kg	3	12500
+528	Penjualan	08-06-2020	Siti	Item-04	Kopi Instant	1	5200
+528	Penjualan	08-06-2020	Siti	Item-05	Mi Goreng Instant	3	2600
+529	Penjualan	08-06-2020	Sri	Item-04	Kopi Instant	3	5200
+529	Penjualan	08-06-2020	Sri	Item-05	Mi Goreng Instant	2	2600
+530	Stok Masuk	09-06-2020	-	Item-02	Bawang Putih 200 gram	55	-
+530	Stok Masuk	09-06-2020	-	Item-05	Mi Goreng Instant	24	-
+530	Stok Masuk	09-06-2020	-	Item-10	Biskuit Waver Kaleng	68	-
+531	Stok Masuk	10-06-2020	-	Item-09	Roti Tawar	19	-
+531	Stok Masuk	10-06-2020	-	Item-13	Pisau Cukur	16	-
+531	Stok Masuk	10-06-2020	-	Item-14	Teh Celup Melati	17	-
+531	Stok Masuk	10-06-2020	-	Item-16	Balsem Putih 20 gram	14	-
+532	Stok Masuk	11-06-2020	-	Item-09	Roti Tawar	14	-
+532	Stok Masuk	11-06-2020	-	Item-17	Obat Batuk	56	-
+532	Stok Masuk	11-06-2020	-	Item-19	Obat Diare	29	-
+533	Penjualan	11-06-2020	Andi	Item-01	Batere AA	2	12000
+533	Penjualan	11-06-2020	Andi	Item-02	Bawang Putih 200 gram	4	15000
+533	Penjualan	11-06-2020	Andi	Item-03	Gula Pasir Putih 1 kg	2	12500
+533	Penjualan	11-06-2020	Andi	Item-04	Kopi Instant	3	5200
+533	Penjualan	11-06-2020	Andi	Item-05	Mi Goreng Instant	3	2600
+534	Penjualan	11-06-2020	Feri	Item-05	Mi Goreng Instant	1	2600
+535	Penjualan	11-06-2020	Jaya	Item-05	Mi Goreng Instant	3	2600
+536	Penjualan	11-06-2020	Kardi	Item-02	Bawang Putih 200 gram	1	15000
+536	Penjualan	11-06-2020	Kardi	Item-03	Gula Pasir Putih 1 kg	1	12500
+536	Penjualan	11-06-2020	Kardi	Item-04	Kopi Instant	3	5200
+536	Penjualan	11-06-2020	Kardi	Item-05	Mi Goreng Instant	1	2600
+537	Penjualan	11-06-2020	Siti	Item-05	Mi Goreng Instant	3	2600
+538	Stok Masuk	12-06-2020	-	Item-02	Bawang Putih 200 gram	34	-
+538	Stok Masuk	12-06-2020	-	Item-03	Gula Pasir Putih 1 kg	33	-
+538	Stok Masuk	12-06-2020	-	Item-04	Kopi Instant	44	-
+538	Stok Masuk	12-06-2020	-	Item-07	Sabut Cuci Piring	7	-
+538	Stok Masuk	12-06-2020	-	Item-11	Sabun Cuci Piring	49	-
+539	Stok Masuk	13-06-2020	-	Item-05	Mi Goreng Instant	73	-
+539	Stok Masuk	13-06-2020	-	Item-06	Sabun Mandi Cair 100 ml	76	-
+539	Stok Masuk	13-06-2020	-	Item-18	Telur Ayam Negeri	97	-
+540	Stok Masuk	14-06-2020	-	Item-03	Gula Pasir Putih 1 kg	32	-
+540	Stok Masuk	14-06-2020	-	Item-09	Roti Tawar	19	-
+540	Stok Masuk	14-06-2020	-	Item-12	Beras Pulen 5 kg	29	-
+540	Stok Masuk	14-06-2020	-	Item-17	Obat Batuk	22	-
+541	Stok Masuk	15-06-2020	-	Item-02	Bawang Putih 200 gram	57	-
+541	Stok Masuk	15-06-2020	-	Item-08	Vitamin C	31	-
+541	Stok Masuk	15-06-2020	-	Item-09	Roti Tawar	18	-
+542	Penjualan	15-06-2020	Agung	Item-05	Mi Goreng Instant	3	2600
+543	Stok Masuk	16-06-2020	-	Item-05	Mi Goreng Instant	47	-
+543	Stok Masuk	16-06-2020	-	Item-09	Roti Tawar	17	-
+544	Penjualan	16-06-2020	Kardi	Item-02	Bawang Putih 200 gram	2	15000
+544	Penjualan	16-06-2020	Kardi	Item-03	Gula Pasir Putih 1 kg	3	12500
+544	Penjualan	16-06-2020	Kardi	Item-04	Kopi Instant	4	5200
+544	Penjualan	16-06-2020	Kardi	Item-05	Mi Goreng Instant	3	2600
+545	Stok Masuk	17-06-2020	-	Item-01	Batere AA	22	-
+545	Stok Masuk	17-06-2020	-	Item-18	Telur Ayam Negeri	95	-
+545	Stok Masuk	17-06-2020	-	Item-20	Gunting Kuku	17	-
+546	Stok Masuk	18-06-2020	-	Item-02	Bawang Putih 200 gram	47	-
+546	Stok Masuk	18-06-2020	-	Item-04	Kopi Instant	63	-
+546	Stok Masuk	18-06-2020	-	Item-09	Roti Tawar	16	-
+546	Stok Masuk	18-06-2020	-	Item-10	Biskuit Waver Kaleng	74	-
+546	Stok Masuk	18-06-2020	-	Item-11	Sabun Cuci Piring	36	-
+546	Stok Masuk	18-06-2020	-	Item-13	Pisau Cukur	20	-
+547	Stok Masuk	19-06-2020	-	Item-03	Gula Pasir Putih 1 kg	34	-
+547	Stok Masuk	19-06-2020	-	Item-14	Teh Celup Melati	42	-
+547	Stok Masuk	19-06-2020	-	Item-18	Telur Ayam Negeri	87	-
+548	Stok Masuk	20-06-2020	-	Item-02	Bawang Putih 200 gram	40	-
+548	Stok Masuk	20-06-2020	-	Item-05	Mi Goreng Instant	31	-
+548	Stok Masuk	20-06-2020	-	Item-06	Sabun Mandi Cair 100 ml	55	-
+548	Stok Masuk	20-06-2020	-	Item-09	Roti Tawar	19	-
+548	Stok Masuk	20-06-2020	-	Item-19	Obat Diare	56	-
+549	Stok Masuk	21-06-2020	-	Item-09	Roti Tawar	12	-
+549	Stok Masuk	21-06-2020	-	Item-16	Balsem Putih 20 gram	5	-
+550	Penjualan	21-06-2020	Feri	Item-04	Kopi Instant	3	5200
+550	Penjualan	21-06-2020	Feri	Item-05	Mi Goreng Instant	4	2600
+551	Stok Masuk	22-06-2020	-	Item-03	Gula Pasir Putih 1 kg	36	-
+551	Stok Masuk	22-06-2020	-	Item-08	Vitamin C	58	-
+552	Stok Masuk	23-06-2020	-	Item-02	Bawang Putih 200 gram	24	-
+552	Stok Masuk	23-06-2020	-	Item-07	Sabut Cuci Piring	10	-
+552	Stok Masuk	23-06-2020	-	Item-09	Roti Tawar	19	-
+553	Stok Masuk	24-06-2020	-	Item-05	Mi Goreng Instant	62	-
+553	Stok Masuk	24-06-2020	-	Item-15	Ketan Hitam 500 gram	29	-
+553	Stok Masuk	24-06-2020	-	Item-17	Obat Batuk	57	-
+553	Stok Masuk	24-06-2020	-	Item-18	Telur Ayam Negeri	87	-
+554	Stok Masuk	25-06-2020	-	Item-02	Bawang Putih 200 gram	54	-
+554	Stok Masuk	25-06-2020	-	Item-03	Gula Pasir Putih 1 kg	41	-
+554	Stok Masuk	25-06-2020	-	Item-04	Kopi Instant	13	-
+554	Stok Masuk	25-06-2020	-	Item-09	Roti Tawar	13	-
+554	Stok Masuk	25-06-2020	-	Item-10	Biskuit Waver Kaleng	70	-
+555	Stok Masuk	26-06-2020	-	Item-05	Mi Goreng Instant	50	-
+555	Stok Masuk	26-06-2020	-	Item-06	Sabun Mandi Cair 100 ml	80	-
+555	Stok Masuk	26-06-2020	-	Item-13	Pisau Cukur	18	-
+555	Stok Masuk	26-06-2020	-	Item-14	Teh Celup Melati	14	-
+556	Stok Masuk	27-06-2020	-	Item-02	Bawang Putih 200 gram	54	-
+556	Stok Masuk	27-06-2020	-	Item-03	Gula Pasir Putih 1 kg	34	-
+556	Stok Masuk	27-06-2020	-	Item-08	Vitamin C	40	-
+556	Stok Masuk	27-06-2020	-	Item-18	Telur Ayam Negeri	53	-
+556	Stok Masuk	27-06-2020	-	Item-20	Gunting Kuku	14	-
+557	Stok Masuk	28-06-2020	-	Item-09	Roti Tawar	19	-
+557	Stok Masuk	28-06-2020	-	Item-11	Sabun Cuci Piring	73	-
+558	Stok Masuk	29-06-2020	-	Item-05	Mi Goreng Instant	79	-
+558	Stok Masuk	29-06-2020	-	Item-09	Roti Tawar	11	-
+558	Stok Masuk	29-06-2020	-	Item-12	Beras Pulen 5 kg	28	-
+559	Stok Masuk	30-06-2020	-	Item-02	Bawang Putih 200 gram	21	-
+559	Stok Masuk	30-06-2020	-	Item-03	Gula Pasir Putih 1 kg	41	-
+559	Stok Masuk	30-06-2020	-	Item-07	Sabut Cuci Piring	18	-
+559	Stok Masuk	30-06-2020	-	Item-08	Vitamin C	55	-
+559	Stok Masuk	30-06-2020	-	Item-17	Obat Batuk	49	-
+559	Stok Masuk	30-06-2020	-	Item-19	Obat Diare	32	-
+560	Stok Masuk	01-07-2020	-	Item-06	Sabun Mandi Cair 100 ml	74	-
+561	Stok Masuk	02-07-2020	-	Item-01	Batere AA	30	-
+561	Stok Masuk	02-07-2020	-	Item-09	Roti Tawar	11	-
+561	Stok Masuk	02-07-2020	-	Item-18	Telur Ayam Negeri	76	-
+562	Stok Masuk	03-07-2020	-	Item-02	Bawang Putih 200 gram	36	-
+562	Stok Masuk	03-07-2020	-	Item-03	Gula Pasir Putih 1 kg	32	-
+562	Stok Masuk	03-07-2020	-	Item-04	Kopi Instant	41	-
+562	Stok Masuk	03-07-2020	-	Item-05	Mi Goreng Instant	64	-
+562	Stok Masuk	03-07-2020	-	Item-10	Biskuit Waver Kaleng	36	-
+562	Stok Masuk	03-07-2020	-	Item-13	Pisau Cukur	11	-
+562	Stok Masuk	03-07-2020	-	Item-16	Balsem Putih 20 gram	5	-
+563	Stok Masuk	04-07-2020	-	Item-09	Roti Tawar	17	-
+563	Stok Masuk	04-07-2020	-	Item-14	Teh Celup Melati	24	-
+564	Stok Masuk	05-07-2020	-	Item-08	Vitamin C	48	-
+564	Stok Masuk	05-07-2020	-	Item-09	Roti Tawar	20	-
+565	Stok Masuk	06-07-2020	-	Item-02	Bawang Putih 200 gram	21	-
+565	Stok Masuk	06-07-2020	-	Item-06	Sabun Mandi Cair 100 ml	78	-
+565	Stok Masuk	06-07-2020	-	Item-11	Sabun Cuci Piring	55	-
+565	Stok Masuk	06-07-2020	-	Item-20	Gunting Kuku	17	-
+566	Stok Masuk	07-07-2020	-	Item-09	Roti Tawar	10	-
+566	Stok Masuk	07-07-2020	-	Item-15	Ketan Hitam 500 gram	29	-
+566	Stok Masuk	07-07-2020	-	Item-18	Telur Ayam Negeri	81	-
+567	Stok Masuk	08-07-2020	-	Item-03	Gula Pasir Putih 1 kg	48	-
+567	Stok Masuk	08-07-2020	-	Item-05	Mi Goreng Instant	96	-
+568	Stok Masuk	09-07-2020	-	Item-02	Bawang Putih 200 gram	57	-
+568	Stok Masuk	09-07-2020	-	Item-09	Roti Tawar	12	-
+568	Stok Masuk	09-07-2020	-	Item-10	Biskuit Waver Kaleng	36	-
+569	Stok Masuk	10-07-2020	-	Item-08	Vitamin C	27	-
+569	Stok Masuk	10-07-2020	-	Item-09	Roti Tawar	20	-
+569	Stok Masuk	10-07-2020	-	Item-17	Obat Batuk	20	-
+569	Stok Masuk	10-07-2020	-	Item-18	Telur Ayam Negeri	65	-
+569	Stok Masuk	10-07-2020	-	Item-19	Obat Diare	59	-
+570	Stok Masuk	11-07-2020	-	Item-02	Bawang Putih 200 gram	38	-
+570	Stok Masuk	11-07-2020	-	Item-03	Gula Pasir Putih 1 kg	42	-
+570	Stok Masuk	11-07-2020	-	Item-06	Sabun Mandi Cair 100 ml	78	-
+570	Stok Masuk	11-07-2020	-	Item-14	Teh Celup Melati	73	-
+571	Stok Masuk	12-07-2020	-	Item-04	Kopi Instant	10	-
+571	Stok Masuk	12-07-2020	-	Item-05	Mi Goreng Instant	89	-
+571	Stok Masuk	12-07-2020	-	Item-08	Vitamin C	37	-
+571	Stok Masuk	12-07-2020	-	Item-09	Roti Tawar	11	-
+571	Stok Masuk	12-07-2020	-	Item-12	Beras Pulen 5 kg	26	-
+571	Stok Masuk	12-07-2020	-	Item-18	Telur Ayam Negeri	59	-
+571	Stok Masuk	12-07-2020	-	Item-19	Obat Diare	25	-
+572	Stok Masuk	13-07-2020	-	Item-02	Bawang Putih 200 gram	28	-
+572	Stok Masuk	13-07-2020	-	Item-03	Gula Pasir Putih 1 kg	49	-
+573	Stok Masuk	14-07-2020	-	Item-05	Mi Goreng Instant	89	-
+573	Stok Masuk	14-07-2020	-	Item-07	Sabut Cuci Piring	5	-
+573	Stok Masuk	14-07-2020	-	Item-09	Roti Tawar	16	-
+573	Stok Masuk	14-07-2020	-	Item-15	Ketan Hitam 500 gram	20	-
+573	Stok Masuk	14-07-2020	-	Item-16	Balsem Putih 20 gram	6	-
+574	Stok Masuk	15-07-2020	-	Item-17	Obat Batuk	51	-
+574	Stok Masuk	15-07-2020	-	Item-20	Gunting Kuku	13	-
+575	Stok Masuk	16-07-2020	-	Item-01	Batere AA	36	-
+575	Stok Masuk	16-07-2020	-	Item-02	Bawang Putih 200 gram	34	-
+575	Stok Masuk	16-07-2020	-	Item-06	Sabun Mandi Cair 100 ml	51	-
+575	Stok Masuk	16-07-2020	-	Item-09	Roti Tawar	17	-
+575	Stok Masuk	16-07-2020	-	Item-11	Sabun Cuci Piring	76	-
+575	Stok Masuk	16-07-2020	-	Item-18	Telur Ayam Negeri	78	-
+575	Stok Masuk	16-07-2020	-	Item-19	Obat Diare	60	-
+576	Stok Masuk	17-07-2020	-	Item-03	Gula Pasir Putih 1 kg	43	-
+576	Stok Masuk	17-07-2020	-	Item-08	Vitamin C	59	-
+576	Stok Masuk	17-07-2020	-	Item-09	Roti Tawar	20	-
+576	Stok Masuk	17-07-2020	-	Item-12	Beras Pulen 5 kg	23	-
+576	Stok Masuk	17-07-2020	-	Item-13	Pisau Cukur	16	-
+576	Stok Masuk	17-07-2020	-	Item-17	Obat Batuk	51	-
+577	Stok Masuk	18-07-2020	-	Item-02	Bawang Putih 200 gram	20	-
+577	Stok Masuk	18-07-2020	-	Item-04	Kopi Instant	12	-
+577	Stok Masuk	18-07-2020	-	Item-10	Biskuit Waver Kaleng	78	-
+578	Stok Masuk	19-07-2020	-	Item-05	Mi Goreng Instant	90	-
+578	Stok Masuk	19-07-2020	-	Item-09	Roti Tawar	14	-
+578	Stok Masuk	19-07-2020	-	Item-19	Obat Diare	55	-
+579	Stok Masuk	20-07-2020	-	Item-02	Bawang Putih 200 gram	41	-
+579	Stok Masuk	20-07-2020	-	Item-03	Gula Pasir Putih 1 kg	50	-
+580	Stok Masuk	21-07-2020	-	Item-07	Sabut Cuci Piring	15	-
+580	Stok Masuk	21-07-2020	-	Item-09	Roti Tawar	10	-
+580	Stok Masuk	21-07-2020	-	Item-14	Teh Celup Melati	25	-
+580	Stok Masuk	21-07-2020	-	Item-18	Telur Ayam Negeri	90	-
+581	Stok Masuk	22-07-2020	-	Item-06	Sabun Mandi Cair 100 ml	64	-
+582	Stok Masuk	23-07-2020	-	Item-02	Bawang Putih 200 gram	30	-
+582	Stok Masuk	23-07-2020	-	Item-05	Mi Goreng Instant	90	-
+582	Stok Masuk	23-07-2020	-	Item-10	Biskuit Waver Kaleng	75	-
+583	Stok Masuk	24-07-2020	-	Item-04	Kopi Instant	76	-
+583	Stok Masuk	24-07-2020	-	Item-09	Roti Tawar	18	-
+583	Stok Masuk	24-07-2020	-	Item-11	Sabun Cuci Piring	24	-
+583	Stok Masuk	24-07-2020	-	Item-13	Pisau Cukur	9	-
+584	Stok Masuk	25-07-2020	-	Item-03	Gula Pasir Putih 1 kg	35	-
+584	Stok Masuk	25-07-2020	-	Item-08	Vitamin C	25	-
+584	Stok Masuk	25-07-2020	-	Item-15	Ketan Hitam 500 gram	23	-
+584	Stok Masuk	25-07-2020	-	Item-16	Balsem Putih 20 gram	10	-
+584	Stok Masuk	25-07-2020	-	Item-19	Obat Diare	21	-
+585	Stok Masuk	26-07-2020	-	Item-02	Bawang Putih 200 gram	53	-
+585	Stok Masuk	26-07-2020	-	Item-09	Roti Tawar	18	-
+585	Stok Masuk	26-07-2020	-	Item-18	Telur Ayam Negeri	78	-
+586	Stok Masuk	27-07-2020	-	Item-01	Batere AA	44	-
+586	Stok Masuk	27-07-2020	-	Item-05	Mi Goreng Instant	32	-
+586	Stok Masuk	27-07-2020	-	Item-09	Roti Tawar	18	-
+586	Stok Masuk	27-07-2020	-	Item-14	Teh Celup Melati	38	-
+586	Stok Masuk	27-07-2020	-	Item-17	Obat Batuk	39	-
+587	Stok Masuk	28-07-2020	-	Item-06	Sabun Mandi Cair 100 ml	56	-
+587	Stok Masuk	28-07-2020	-	Item-12	Beras Pulen 5 kg	30	-
+588	Stok Masuk	29-07-2020	-	Item-02	Bawang Putih 200 gram	26	-
+588	Stok Masuk	29-07-2020	-	Item-03	Gula Pasir Putih 1 kg	30	-
+588	Stok Masuk	29-07-2020	-	Item-04	Kopi Instant	27	-
+588	Stok Masuk	29-07-2020	-	Item-05	Mi Goreng Instant	100	-
+588	Stok Masuk	29-07-2020	-	Item-09	Roti Tawar	12	-
+588	Stok Masuk	29-07-2020	-	Item-19	Obat Diare	34	-
+588	Stok Masuk	29-07-2020	-	Item-20	Gunting Kuku	13	-
+589	Stok Masuk	30-07-2020	-	Item-10	Biskuit Waver Kaleng	67	-
+589	Stok Masuk	30-07-2020	-	Item-11	Sabun Cuci Piring	33	-
+589	Stok Masuk	30-07-2020	-	Item-18	Telur Ayam Negeri	79	-
+590	Stok Masuk	31-07-2020	-	Item-02	Bawang Putih 200 gram	26	-
+590	Stok Masuk	31-07-2020	-	Item-03	Gula Pasir Putih 1 kg	50	-
+590	Stok Masuk	31-07-2020	-	Item-07	Sabut Cuci Piring	6	-
+590	Stok Masuk	31-07-2020	-	Item-09	Roti Tawar	15	-
